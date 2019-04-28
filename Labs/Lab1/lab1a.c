@@ -9,8 +9,7 @@
 #include "lifegame.h"
 
 /* add whatever other includes here */
-#define WORLDWIDTH  get_world_width()
-#define WORLDHEIGHT get_world_height()
+
 /* number of generations to evolve the world */
 #define NUM_GENERATIONS 50
 
@@ -31,25 +30,13 @@ int get_next_state(int x, int y);
    neighbors of the cell at (x,y) */
 int num_neighbors(int x, int y);
 
-static int world[WORLDWIDTH][WORLDHEIGHT];
-static int nextstates[WORLDWIDTH][WORLDHEIGHT];
 
 int main(void)
 {
-	int n;
+    int n;
 
 	/* initialize the world */
-    int i, j;
-
-	for (i = 0; i < WORLDWIDTH; i++)
-		for (j = 0; j < WORLDHEIGHT; j++)
-			world[i][j] = nextstates[i][j] = DEAD;
-	/* pattern "glider" */
-	world[1][2] = ALIVE;
-	world[3][1] = ALIVE;
-	world[3][2] = ALIVE;
-	world[3][3] = ALIVE;
-	world[2][3] = ALIVE;
+    initialize_world();
 
 
 	for (n = 0; n < NUM_GENERATIONS; n++)
@@ -67,14 +54,14 @@ void next_generation(void) {
 
 	   Hint: use get_next_state(x,y) */
 	int i, j;
-	for (i = 0; i < WORLDWIDTH; i++) {
-		for (j = 0; j < WORLDHEIGHT; j++) {
-			nextstates[i][j] = get_next_state(i, j);
-			world[i][j] = nextstates[i][j];
+    int world_width, world_height;
+    world_width = get_world_width();
+    world_height = get_world_height();
+	for (i = 0; i < world_width; i++) {
+		for (j = 0; j < world_height; j++) {
+			set_cell_state(i, j, get_next_state(i, j));
 		}
 	}
-
-
 
 	finalize_evolution(); /* called at end to finalize */
 }
@@ -88,20 +75,21 @@ int get_next_state(int x, int y) {
 	if (get_cell_state(x, y) == DEAD)
 	{
 		if (num_neighbors(x, y) == 3)
-			set_cell_state(x, y, ALIVE);
+			return ALIVE;
+        else
+            return DEAD;
 	}
 	else
 	{
 		if (num_neighbors(x, y) == 2 || num_neighbors(x, y) == 3)
 		{
-			set_cell_state(x, y, ALIVE);
+			return ALIVE;
 		}
 		else
 		{
-			set_cell_state(x, y, DEAD);
+			return DEAD;
 		}
 	}
-
 }
 
 int num_neighbors(int x, int y) {
@@ -111,16 +99,17 @@ int num_neighbors(int x, int y) {
 	   Use get_cell_state(x,y) */
 	int i, j;
 	int sum = 0;
+    /* remember to delete value when i=x, j=y */
 	for (i = x-1;i <= x+1; i++)
 	{
 		for (j = y-1;j <= y+1; j++)
 		{
+            if(i == x && j == y)
+                continue;
 			if (get_cell_state(i, j) == ALIVE)
 				sum += 1;
 		}
 	}
 	return sum;
-
-
 }
 
