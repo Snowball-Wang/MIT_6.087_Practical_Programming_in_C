@@ -11,8 +11,8 @@ int main(int argc,char* argv[])
     /*count of words,lines,characters*/
     unsigned long nw=0,nl=0,nc=0;
     /*following used to count words*/
-    enum state{INSIDE, OUTSIDE};
-    enum state currstate = INSIDE;
+    enum state{NONSPACE, SPACE};
+    enum state currstate = NONSPACE;
 
     if(nfiles==0) 
     {
@@ -42,14 +42,14 @@ int main(int argc,char* argv[])
                 nl++;
             if(isspace(c))
             {
-                if(currstate == INSIDE)
+                if(currstate == NONSPACE)
                     nw++;
-                currstate = OUTSIDE;
+                currstate = SPACE;
             }
             else
-                currstate = INSIDE;
+                currstate = NONSPACE;
         }
-        printf("%ld %s\n",nc,currfile);
+        printf("nc:%ld, nl:%ld, nw:%ld, %s\n",nc,nl,nw,currfile);
         /*next file if exists*/
         nfiles--;
         if(nfiles>0)
