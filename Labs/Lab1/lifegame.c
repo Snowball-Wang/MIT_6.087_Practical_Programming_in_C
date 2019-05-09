@@ -1,8 +1,8 @@
 /*
  * lifegame.c
  *
- *  Created on:
- *      Author:
+ *  Created on: May 9, 2019
+ *      Author: Snowball Wang
  */
 
 #include <stdio.h>
@@ -28,7 +28,7 @@ static int nextstates[WORLDWIDTH][WORLDHEIGHT];
 
 /* functions to write for Part B of lab */
 void initialize_world_from_file(const char * filename) {
-	/* TODO: read the state of the world from a file with
+	/* read the state of the world from a file with
 	   name "filename". Assume file exists, is readable, and
 	   the ith character of the jth line (zero-indexed) describes
 	   world[i][j] according to the characters CHAR_ALIVE and
@@ -44,12 +44,37 @@ void initialize_world_from_file(const char * filename) {
 
 	   Also need to reset the next generation to DEAD
 	 */
+	int i, j = 0;
+	FILE * fp = NULL;
+	char line[256] = {0};
+	/* reset the next generation to DEAD */
+	for (int m = 0; m < WORLDWIDTH; m++)
+		for (int n = 0; n < WORLDHEIGHT; n++)
+			world[m][n] = nextstates[m][n] = DEAD;
 
-
+	fp = fopen(filename, "r");
+	/* abort when fp is NULL */
+	if (fp == NULL)
+	{
+		abort();
+	}
+	/* read the text file line by line and get the cell state */
+	while (fgets(line, sizeof(line), fp))
+	{
+		for (i = 0; i < WORLDWIDTH; i++)
+		{
+			if (line[i] == '*')
+				world[i][j] = 1; 
+			else
+				world[i][j] = 0;
+		}
+		j++;
+	}
+	fclose(fp);
 }
 
 void save_world_to_file(const char * filename) {
-	/* TODO: write the state of the world into a file with
+	/* write the state of the world into a file with
 	   name "filename". Assume the file can be created, or if
 	   the file exists, overwrite the file. The ith character
 	   of the jth line (zero-indexed) describes world[i][j]
@@ -59,8 +84,21 @@ void save_world_to_file(const char * filename) {
 	   initialize_world_from_file(filename) above; we can use
 	   it to resume a game later
 	 */
-
-
+	FILE *fp = NULL;
+	fp = fopen(filename, "w");
+	/*pay attention to the the reading order when you write 
+	 the character into output file*/
+	for (int i = 0; i < WORLDHEIGHT; i++){
+		for (int j = 0; j < WORLDWIDTH; j++)
+		{
+			if (world[j][i])
+				fprintf(fp, "*");
+			else
+				fprintf(fp, " ");
+		}
+		fprintf(fp, "\n");
+	}
+	fclose(fp);
 }
 
 /* you shouldn't need to edit anything below this line */
