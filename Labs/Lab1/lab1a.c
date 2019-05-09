@@ -99,7 +99,7 @@ int num_neighbors(int x, int y) {
 	   Use get_cell_state(x,y) */
 	int i, j;
 	int sum = 0;
-    /* remember to delete value when i=x, j=y */
+    /* remember to exclude value when i=x, j=y */
 	for (i = x-1;i <= x+1; i++)
 	{
 		for (j = y-1;j <= y+1; j++)
