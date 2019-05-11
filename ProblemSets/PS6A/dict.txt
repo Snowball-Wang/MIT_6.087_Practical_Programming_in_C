@@ -1,0 +1,6044 @@
+# English-French dictionary created from English Wiktionary
+# Created on: 2010-01-16T05:00:58+01:00
+# Licence: GNU Free Documentation Licence http://www.gnu.org/copyleft/fdl.html
+# Download updated version of this file at: http://www.dicts.info/uddl.php
+# Contact us at: http://www.dicts.info/contact.php
+#
+# Modified by Daniel Weller -- removed accent characters
+-ible	-ible
+-ism	-isme
+-ity	-ite
+-logy	-logie
+A-bomb	bombe atomique
+AIDS	SIDA
+ASAP	des que possible
+Aachen	Aix-la-Chapelle
+Aaron	Aaron
+Abel	Abel
+Abidjan	Abidjan
+Abkhaz	abkhazien
+Abkhazian	abkhazien
+Abraham	Abraham
+Abu Dhabi	Abu Dhabi
+Achilles	Achille
+Achilles heel	Talon d'Achille
+Achilles' tendon	tendon d'Achille
+Acropolis	Acropole
+Adam	Adam
+Adam	Adamo
+Adam and Eve	Adam et Eve
+Adam's apple	pomme d'Adam
+Addis Ababa	Addis-Abeba
+Adelaide	Adelaide
+Aden	Aden
+Adolf	Adolphe
+Adolph	Adolphe
+Adrian	Adrien
+Aegean Sea	Mer Egee
+Aeschylus	Eschyle
+Afghan	Afghan
+Afghan	afghan
+Afghanistan	Afghanistan
+Africa	l'Afrique
+African	africain
+Afrikaans	afrikaans
+Agatha	Agathe
+Agnes	Agnes
+Ainu	ainu
+Akkadian	akkadien
+Al-Andalus	Al-Andalus
+Alan	Alain
+Alaska	Alaska
+Alban	Alban
+Albania	Albanie
+Albanian	albanais
+Albanian	Albanais
+Albert	Albert
+Albin	Albin
+Alexander	Alexandre
+Alfred	Alfred
+Algeria	Algerie
+Algiers	Alger
+Alice	Alice
+Allah	Allah
+Alphonse	Alphonse
+Alps	Alpes
+Alzheimer's disease	maladie d'Alzheimer
+America	Amerique
+American	Americain
+American	americaine
+American Samoa	Samoa americaines
+American bison	bison d'amerique
+Amharic	amharique
+Amsterdam	Amsterdam
+Andalusia	Andalousie
+Andorra	Andorre
+Andrew	Andre
+Angola	Angola
+Ankara	Ankara
+Ann	Anne
+Anno Domini	apres Jesus-Christ
+Antarctica	Antarctique
+Anthony	Antoine
+Antigua and Barbuda	Antigua-et-Barbuda
+Antwerp	Anvers
+Apocalypse	apocalypse
+April	avril
+Apuleius	Apulee
+Aquarius	Verseau
+Aquarius	verseau
+Arab	Arabe
+Arab	arabe
+Arabic	arabe
+Arctic Ocean	ocean Arctique
+Ares	Ares
+Argentina	Argentine
+Argentinian	argentin
+Argentinian	Argentin
+Aries	Belier
+Arkhangelsk	Arkhangelsk
+Armageddon	Armageddon
+Armenia	Armenie
+Armenian	armenien
+Armenian	Armenien
+Armenian SSR	RSS d'Armenie
+Arthur	Arthur
+Aruba	Aruba
+Asia	Asie
+Athena	Athena
+Athens	Athenes
+Atlantic Ocean	ocean Atlantique
+August	août
+Augustus	Auguste
+Australia	Australie
+Australian	Australien
+Austria	Autriche
+Austrian	Autrichien
+Austrian	autrichien
+Ayers Rock	Ayers Rock
+Aymara	aymara
+Ayyavazhi	Ayyavazhi
+Azerbaijan	Azerbaidjan
+Azerbaijan SSR	Rss d'Azerbaidjan
+Azeri	Azerbaidjanais
+Azeri	azeri
+BC	av. JC
+Bactria	Bactriane
+Baghdad	Bagdad
+Bahamas	Bahamas ''f pl''
+Bahrain	Bahrein
+Balearic Islands	iles Baleares
+Bali	Bali
+Baltic Sea	mer Baltique
+Bangladesh	Bangladesh
+Barbados	Barbade
+Basque	basque
+Basque	Basque
+Bavaria	Baviere
+Beijing	Pekin
+Beirut	Beyrouth
+Belarus	Bielorussie
+Belarusian	Bielorusse
+Belgian	Belge
+Belgian	belge
+Belgium	Belgique
+Belgrade	Belgrade
+Belize	Belize
+Belorussian	bielorusse
+Bengali	bengali
+Benin	Benin
+Bering Sea	Mer de Bering
+Berlin	Berlin
+Bermuda	Bermudes
+Bethlehem	Bethleem
+Bhutan	Bhoutan
+Bible	Bible
+Black Death	peste noire
+Black Sea	mer Noire
+Bogota	Bogota
+Bolivia	Bolivie
+Bologna	Bologne
+Bosnia	Bosnie
+Bosnia and Herzegovina	Bosnie-Herzegovine
+Bosphorus	Bosphore
+Botswana	Botswana
+Brasil	Bresil
+Bratislava	Bratislava, Pressbourg
+Brazil	Bresil
+Brazilian	Bresilien
+Brazilian	bresilien
+Breton	breton
+Breton	Breton
+British	britannique
+Brittany	Bretagne
+Bronze Age	Age du bronze
+Brunei	Brunei
+Brussels	Bruxelles
+Bucharest	Bucarest
+Buddha	Bouddha
+Buddhism	bouddhisme
+Bulgaria	Bulgarie
+Bulgarian	bulgare
+Bulgarian	Bulgare
+Burgundy	Bourgogne
+Burkina Faso	Burkina Faso
+Burma	Birmanie
+Burundi	Burundi
+Byelorussian SSR	Rss bielorusse
+Byzantine Empire	Empire byzantin
+CIS	CEI
+Caaba	Ka'ba
+Cairo	Le Caire
+California	Californie
+Cambodia	Cambodge
+Camelus dromedarius	chameau
+Cameroon	Cameroun
+Canada	Canada
+Canada goose	Bernache du Canada
+Canadian	Canadien
+Canadian	canadien
+Cancer	Cancer
+Cape Town	Le Cap
+Cape Verde	Cap-Vert
+Cape of Good Hope	cap de Bonne-Esperance
+Care Bears	Bisounours
+Caspian Sea	Mer Caspienne
+Catalan	catalan
+Catalonia	Catalogne
+Catherine	Catherine
+Caucasus	Caucase
+Celt	Celte
+Celtic	celtique
+Central African Republic	Republique centrafricaine
+Central Europe	Europe centrale
+Chad	Tchad
+Charles	Charles
+Chechen	tchetchene
+Cheddar cheese	Fromage Cheddar
+Chennai	Chennai
+Chile	Chili
+China	Chine
+Chinese	chinois
+Chinese	Chinois
+Chinese	les Chinois
+Christ	Christ
+Christian	chretien
+Christianity	Christianisme
+Christmas	Noël
+Christmas tree	arbre de Noël
+Christopher	Christophe
+Cinderella	Cendrillon
+Cleopatra	Cleopatre
+Coca-Cola	Coca-Cola
+Colombia	Colombie
+Colossus of Rhodes	Colosse de Rhodes
+Columbia	Colombie
+Commonwealth of Independent States	Communaute des Etats independants
+Comoros	Comores
+Congo	Congo
+Constantine	Constantin
+Constantinople	Constantinople
+Cook Islands	iles Cook
+Copenhagen	Copenhague
+Cornish	cornouaillais
+Costa Rica	Costa Rica
+Crete	Crete
+Crimean Tatar	tatar de Crimee
+Croatia	Croatie
+Croatian	Croate
+Crusade	croisade
+Cuba	Cuba
+Cupid	Cupidon
+Cyprus	Chypre
+Cyrillic	cyrillique
+Czech	tcheque
+Czech	Tcheque
+Czech Republic	la Republique tcheque
+Czechia	Tchequie
+DNA	ADN
+Damascus	Damas
+Dane	Danois
+Daniel	Daniel
+Danish	danois
+Danube	Danube
+David	David
+Dead Sea	Mer Morte
+December	decembre
+Democritus	Democrite
+Denmark	Danemark
+Dervish	derviche
+Djibouti	Djibouti
+Dominica	Dominique
+Dominican Republic	Republique dominicaine
+Doric	Dorique
+Dublin	Dublin
+Dubrovnik	Dubrovnik
+Dutch	neerlandais
+Dutch	Neerlandais
+EU	UE (Union Europeenne
+Earth	la Terre
+East Germany	Allemagne de l'Est
+East Timor	Timor Oriental
+Easter	Paques
+Easter Island	Île de Paques
+Easter egg	euf de Paques
+Eastern Europe	Europe de l'Est
+Ecuador	Equateur
+Edinburgh	Edimbourg
+Edward	Edouard
+Egypt	Egypte
+Egyptian	Egyptien
+Egyptian	egyptien
+El Salvador	Salvador
+Elizabeth	Elisabeth
+Emily	Emilie
+England	Angleterre
+English	anglais
+English	Anglais
+Englishman	Anglais
+Epirus	Epire
+Equatorial Guinea	Guinee equatoriale
+Eric	Eric
+Eritrea	Erythree
+Esau	Esaü
+Esperanto	esperanto
+Esther	Esther
+Estonia	Estonie
+Estonian	estonien
+Estonian	Estonien
+Ethiopia	Ethiopie
+Euclidean geometry	geometrie euclidienne
+Euripides	Euripide
+Europe	Europe
+European	Europeen
+European	europeen
+European Central Bank	Banque centrale europeenne
+European Union	Union europeenne
+European bison	bison d'europe
+Eve	Eve
+Exodus	Exode
+Falkland Islands	Malouines
+Faroe Islands	les iles Feroe
+Faroese	feroien
+February	fevrier
+Ferris wheel	grande roue
+Fez	Fes
+Fiji	Fidji
+Finland	Finlande
+Finn	Finnois
+Finnish	finnois
+Finnish	finlandais
+Flanders	la Flandre
+Flemish	flamand
+Fomalhaut	Fomalhaut
+France	France
+Francis	Francois
+French	francais
+French	les Francais
+French Guiana	Guyane francaise
+Friday	vendredi
+Frisian	Frison
+GDP	PIB
+Gabon	Gabon
+Galician	galicien
+Gambia	Gambie
+Ganesha	Ganesh
+Ganges	Gange
+Gatling gun	gatling
+Gemini	Gemeaux
+Genesis	Genese
+Geneva	Geneve
+Genoa	Genes
+George	Georges
+Georgetown	Georgetown
+Georgia	Georgie
+Georgian	georgien
+Georgian	Georgien
+German	allemand
+German	Allemand
+Germany	Allemagne
+Ghana	Ghana
+Gibraltar	Gibraltar
+Glasgow	Glasgow
+Gnosticism	gnosticisme
+God	Dieu
+Goddess	Deesse
+Good Friday	vendredi saint
+Great Britain	Grande-Bretagne
+Great Pyramid of Giza	pyramide de Kheops
+Greece	Grece
+Greek	grec
+Greenland	Groenland
+Greenlandic	kalaallisut
+Grenada	Grenade
+Guadeloupe	Guadeloupe
+Guam	Guam
+Guatemala	Guatemala
+Guernsey	Guernesey
+Guinea	Guinee
+Guinea-Bissau	Guinee-Bissao
+Gujarati	gujarati
+Gulf of Bothnia	Golfe de Botnie
+Gulf of Finland	golfe de Finlande
+Gulf of Riga	Golfe de Riga
+Guyana	Guyana
+Gypsy	tsigane
+Haiti	Haiti
+Hanukkah	Hanoucca
+Happy Easter	joyeuses Paques
+Happy New Year	bonne annee
+Havana	La Havane
+Hawaii	Hawaii
+Hebrew	hebreu
+Hebrew	Hebreu
+Hegira	hegire
+Helen	Helene
+Henry	Henri
+Herman	Armand
+Herodotus	Herodote
+Hesiod	Hesiode
+Hezbollah	Hezbollah
+Hijra	hegire
+Hindi	hindi
+Hinduism	Hindouisme
+Hippocrates	Hippocrate
+Holland	Hollande
+Holy Grail	le Graal
+Holy Roman Empire	Saint Empire Romain Germanique
+Honduras	Honduras
+Hong Kong	Hongkong
+How old are you?	quel age as-tu ?
+Hubble constant	loi de Hubble
+Human Resource Management	Gestion des ressources humaines
+Hungarian	hongrois
+Hungarian	Hongrois
+Hungarian notation	notation hongroise
+Hungary	Hongrie
+I	je
+I don't know	je ne sais pas
+I don't understand	je ne comprends pas
+I love you	Je t'aime
+I think so	je le pense
+I'm fine, thank you	moi, je vais bien, merci
+I'm in love with you	Je suis amoureux de toi
+Iceland	Islande
+Icelandic	islandais
+India	Inde
+Indian	indien
+Indian	Indien
+Indian Ocean	ocean Indien
+Indonesia	Indonesie
+Indonesian	indonesien
+Indonesian	Indonesien
+Indus Valley Civilization	Civilisation de la vallee de l'Indus
+Interlingua	Interlingua
+International Phonetic Alphabet	alphabet phonetique international
+Internet	Internet
+Ionian Sea	mer Ionienne
+Iran	Iran
+Iraq	Iraq
+Iraqi	Iraquien
+Iraqi	iraquien
+Ireland	Irlande
+Irene	Irene
+Irish	irlandais
+Irish	Irlandais
+Irish Sea	Mer d'Irlande
+Iron Age	Age du fer
+Is it going to rain?	Va-t-il pleuvoir
+Isaac	Isaac
+Isaiah	Esaie
+Ishmael	Ismaël
+Islam	Islam
+Islamic	islamique
+Isle of Man	l'ile de Man
+Israel	Israël
+Israeli	Israelien
+Israeli	israelien
+Istanbul	Istanbul
+Italian	italien
+Italian	Italien
+Italy	Italie
+Ivory Coast	Cote d'Ivoire
+Ixion	Ixion
+Ixion	(28978) Ixion
+Jacob	Jacob
+Jacob	Jacques
+Jainism	Jainisme
+Jalalabad	Jalalabad
+Jamaica	Jamaique
+James	Jacques
+Jane	Jeanne
+January	janvier
+Janus	Janus
+Japan	le fr
+Japanese	japonais
+Japanese	Japonais
+Jehovah	Jehovah
+Jehovah's Witnesses	Temoins de Jehovah
+Jerusalem	Jerusalem
+Jesus	Jesus
+Jesus Christ	Jesus-Christ
+Jew	juif
+Jew's harp	guimbarde
+Jewess	juive
+Jewish	juif
+John	Jean
+Jordan	Jordanie
+Jordan	Jourdain
+Joseph	Joseph
+Judaism	Judaisme
+Julia	Julie
+Juliet	Juliette
+July	juillet
+June	juin
+Justin	Justin
+Kabul	Kaboul
+Kali	Kali
+Karelian	carelien
+Karlovac	Karlovac
+Kashubian	kachoube
+Kazakhstan	Kazakhstan
+Kenya	Kenya
+Khartoum	Khartoum
+Khrushchev	Khrouchtchev
+Kiev	Kiev
+Kiribati	Kiribati
+Klingon	klingon
+Kohtla-Järve	Kohtla-Järve
+Korea	Coree
+Korean	coreen
+Korean	Coreen
+Kosovo	Kosovo
+Kurdish	kurde
+Kurdistan	Kurdistan
+Kuwait	Koweit
+Kyoto	Kyoto
+Kyrgyzstan	Kirghizistan
+Lao	Laotien
+Lao	laotien
+Laos	Laos
+Laotian	Laotien
+Laotian	laotien
+Latin	latin
+Latin alphabet	alphabet latin
+Latvia	Lettonie
+Latvian	letton
+Latvian	Letton
+Laura	Laure
+Laurence	Laurent
+Lebanon	Liban
+Leo	Lion
+Lesotho	Lesotho
+Liberia	Liberia
+Libra	Balance
+Libya	Libye
+Liechtenstein	Liechtenstein
+Lisbon	Lisbonne
+Lithuania	Lituanie
+Lithuanian	lithuanien
+Lithuanian	Lithuanien
+Little Red Riding Hood	Le Petit Chapeau Rouge
+Liverpool	Liverpool
+Livonian	livonien
+Lombardy	Lombardie
+London	Londres
+London	londinien
+London	London
+Louis	Louis
+Lucian	Lucien de Samosate
+Luke	Luc
+Luxembourg	Luxembourg
+Macedonia	Macedoine
+Macedonian	macedonien
+Macedonian	Macedonien
+Madagascar	Madagascar
+Madrid	Madrid
+Majorca	Majorque
+Malawi	Malawi
+Malay	malais
+Malayalam	malayalam
+Malaysia	Malaisie
+Maldives	Maldives ''f pl''
+Mali	Mali
+Malta	Malte
+Man	homme
+Mandarin	mandarin
+Manila hemp	chanvre de Manille
+Manitoba	Manitoba
+March	mars
+Margaret	Marguerite
+Mark	Marc
+Mars	Mars
+Marshall Islands	Îles Marshall
+Marshallese	marshallais
+Martha	Marthe
+Martian	Martien
+Martin	Martin
+Martinique	Martinique
+Marxism	marxisme
+Mary	Marie
+Matthew	Mathieu
+Mauritania	Mauritanie
+Mauritius	Maurice
+May	mai
+Mayotte	Mayotte
+McDonald's	McDonald's
+Mecca	La Mecque
+Mediterranean Sea	Mer Mediterranee
+Mercury	(la planete
+Mercury	Mercure
+Merry Christmas	joyeux Noël
+Merry Christmas and a Happy New Year!	Joyeux Noël et bonne annee
+Mesolithic	mesolithique
+Meuse	Meuse
+Mexico	Mexique
+Mexico	Mexico
+Mexico City	Mexico
+Micah	Michee
+Michael	Michel
+Mickey Mouse	'''Mickey Mouse'''
+Micronesia	Micronesie
+Middle East	Moyen-Orient
+Milan	Milan
+Milky Way	la Voie lactee
+Minorca	Minorque
+Mirandese	mirandais
+Miriam	Myriam
+Miss	Mademoiselle
+Mississippi	Mississippi
+Missouri	Missouri
+Moksha	Mokcha
+Moldova	Moldavie
+Monaco	Monaco
+Monastir	Bitola
+Monday	lundi
+Mongolia	Mongolie
+Mongolian	mongol
+Mongolian	Mongol
+Moon	lune
+Morocco	Maroc
+Moscow	Moscou
+Moses	Moise
+Mount Everest	mont Everest
+Mozambique	Mozambique
+Mr	M
+Mrs	Mme
+Muay Thai	muay thai
+Muggle	Moldu
+Munich	Munich
+Muntenia	Muntenie
+Muscat	Mascate
+Muse	Muse
+Muslim	musulman
+Myanmar	Myanmar, Birmanie
+Mobius strip	ruban de Mobius
+NATO	OTAN
+Nagykanizsa	Nagykanizsa
+Nahuatl	nahuatl
+Namibia	Namibie
+Naples	Naples
+Nauru	Nauru
+Nenets	nenetse
+Neolithic	Neolithique
+Nepal	Nepal
+Neptune	Neptune
+Netherlands	les Pays-Bas
+Netherlands	neerlandais
+New Guinea	Nouvelle Guinee
+New Jersey	New Jersey
+New South Wales	Nouvelle-Galles du Sud
+New Year	nouvel an
+New Year's Day	jour de l'An
+New York	New York
+New York City	New York
+New Zealand	Nouvelle-Zelande
+Nicaragua	Nicaragua
+Nicholas	Nicolas
+Niger	Niger
+Nigeria	Nigeria
+Nike	Nike
+Nile	Nil
+Niue	Nioue
+Noah	Noe
+Norfolk Island	Ile Norfolk
+North America	Amerique du Nord
+North Korea	Coree du Nord
+North Pole	Pole Nord
+North Sea	Mer du Nord
+Northern Europe	Europe du Nord
+Northern Territory	Territoire-du-Nord
+Norway	Norvege
+Norwegian	norvegien
+Norwegian	Norvegien
+November	novembre
+Novi Sad	Novi Sad
+Nyx	Nyx
+Occam's razor	rasoir d'Occam
+Occitan	occitan
+Oceania	Oceanie
+October	octobre
+Odyssey	L'Odyssee
+Old Church Slavonic	Slavon
+Oltenia	Oltenie
+Olympic Games	Jeux Olympiques
+Olympic Winter Games	Jeux Olympiques d'hiver
+Oman	Oman
+Orinoco	Orenoque
+Orion	Orion
+Ouagadougou	Ouagadougou
+Our Lady	Notre Dame
+Oxford	Oxford
+Pacific Ocean	ocean Pacifique
+Pakistan	Pakistan
+Palau	Belau
+Paleolithic	Paleolithique
+Palestine	Palestine
+Panama	Panama
+Panchatantra	Pañchatantra
+Pangaea	Pangee
+Papua New Guinea	Papouasie-Nouvelle-Guinee
+Paraguay	Paraguay
+Paris	Paris
+Paris	Paris
+Parkinson's disease	maladie de parkinson
+Paul	Paul
+People's Republic of China	Republique populaire de Chine
+Pericles	Pericles
+Persia	Perse
+Peru	Perou
+Philip	Philippe
+Philippines	Philippines
+Pisces	Poissons
+Planck's constant	constante de Planck
+Planet X	planete X
+Pliny	Pline
+Plutarch	Plutarque
+Pluto	Pluton
+Poland	Pologne
+Pole	polonais
+Polish	polonais
+Popemobile	papamobile
+Portugal	Portugal
+Portuguese	portugais
+Portuguese	Portugais
+Prague	Prague
+Protestant	protestant
+Proto-Germanic	proto-germanique
+Proto-Indo-European	indo-europeen commun
+Prussia	Prusse
+Puerto Rico	Porto Rico
+Punjab	Penjab
+Punjabi	penjabi
+Pythagoras	Pythagore
+QED	CQFD
+Qatar	Qatar
+Quechua	quechua
+Qur'an	le Coran
+Qur'an	coran
+Rachel	Rachel
+Rakvere	Rakvere
+Ramadan	Ramadan
+Rangoon	'''Rangoon''' (or Rangoun
+Red Sea	mer Rouge
+Republic of Korea	Republique de Coree
+Revelation	Apocalypse
+Rhine	Rhin
+Richard	Richard
+Riga	Riga
+Robert	Robert
+Roman	romain
+Roman Empire	Empire romain
+Romania	Roumanie
+Romanian	roumain
+Romanian	Roumain
+Rome	Rome
+Rome wasn't built in a day	Paris ne s'est pas fait en un jour
+Rosetta Stone	Pierre de Rosette
+Roxanne	Roxane
+Russia	Russie
+Russian	russe
+Russian	Russe
+Russian Federation	Federation Russe
+Rwanda	Ruanda
+Saami	same
+Sagittarius	Sagittaire
+Saint Kitts and Nevis	Saint-Christophe-et-Nieves
+Saint Lucia	Sainte-Lucie
+Saint Vincent and the Grenadines	Saint-Vincent-et-Grenadines
+Sami	same
+Samoa	Samoa
+Samosata	Samosate
+Samuel	Samuel
+San Francisco	San Francisco
+San Marino	le Saint-Marin
+Sanskrit	sanskrit
+Santa Claus	Saint Nicolas
+Sarah	Sarah
+Sarajevo	Sarajevo
+Sardinia	Sardaigne
+Saturday	samedi
+Saturn	saturne
+Saudi Arabia	Arabie Saoudite
+Scandinavia	Scandinavie
+Schrodinger's cat	chat de Schrodinger
+Scorpio	Scorpion
+Scorpius	Scorpion
+Scot	Ecossais
+Scotland	Ecosse
+Scottish Gaelic	gaelique ecossais
+Sea of Japan	mer du Japon
+Senegal	Senegal
+Seoul	Seoul
+September	septembre
+Septuagint	Septante
+Serb	Serbe
+Serbia and Montenegro	Serbie-et-Montenegro
+Serbian	Serbe
+Serbian	serbe
+Serbo-Croatian	serbo-croate
+Seville	Seville
+Seychelles	Seychelles
+Shanghai	Shanghai, Chang-hai
+Sherlock Holmes	Sherlock Holmes
+Shiraz	Chiraz
+Shiraz	syrah
+Siberia	Siberie
+Sicily	Sicile
+Sierra Leone	Sierra Leone
+Singapore	Singapour
+Skopje	Skopje, Skoplje
+Sleeping Beauty	La Belle au bois dormant
+Slovak	Slovaque
+Slovak	slovaque
+Slovakia	Slovaquie
+Slovene	slovene
+Slovene	Slovene
+Slovenia	Slovenie
+Slovenian	slovene
+Snow White	Blanche-Neige
+Sofia	'''Sofia'''
+Solomon Islands	Îles Salomon
+Somali	somali
+Somalia	Somalie
+Sophia	Sophie
+Sorbian	Sorabe
+South Africa	Afrique du Sud
+South America	Amerique du Sud
+South Korea	Coree du Sud
+South Pole	Pole Sud
+Southern Europe	Europe du Sud
+Soviet Union	Union Sovietique
+Space Shuttle	navette spatiale
+Spain	Espagne
+Spaniard	espagnol
+Spanish	espagnol
+Spanish	les Espagnol
+Sphinx	Sphinx
+Spider-Man	Spider-Man
+Sri Lanka	Sri Lanka
+Stephen	Etienne
+Stone Age	Age de la pierre
+Sudan	Soudan
+Sudeten	Sudetes
+Sudetenland	region des Sudetes
+Suez Canal	Canal de Suez
+Sumerian	sumerien
+Sun	soleil
+Sunday	dimanche
+Supreme Leader	Guide supreme
+Suriname	Surinam
+Svalbard	Svalbard
+Svalbard and Jan Mayen Islands	Iles Svalbard et Jan Mayen
+Swahili	swahili
+Swaziland	Swaziland
+Swede	Suedois
+Sweden	Suede
+Swedish	suedois
+Switzerland	Suisse
+Sydney	Sydney
+Syria	Syrie
+T-shirt	T-shirt
+TV	tele
+Taiwan	Taiwan
+Taiwanese	Taiwanais
+Tajik	tadjik
+Tajikistan	Tadjikistan
+Tamil	tamoul
+Tamil	Tamoul
+Tamil Tigers	Tigres tamouls
+Tanzania	Tanzanie
+Tasmania	Tasmanie
+Tatar	Tatar
+Taurus	Taureau
+Tehran	Teheran
+Template:A-bomb/Translations	bombe atomique
+Template:center-centre-noun	centre ''m''
+Template:center-centre-noun	milieu
+Template:color-colour (noun)	couleur
+Template:color-colour (verb)	colorer
+Template:color-colour (verb)	rougir
+Template:mirror/Translations	glace
+Template:program-programme-noun	programme
+Template:program-programme-noun	emission
+Ten Commandments	Decalogue
+Teresa	Therese
+Tetris	Tetris
+Teutonic Knights	Ordre teutonique or Chevaliers Teutoniques
+Thai	thai
+Thai	Thailandais
+Thai	thailandais
+Thailand	Thailande
+Thames	Tamise
+The Hague	La Haye
+Thomas	Thomas
+Thursday	jeudi
+Tibet	Tibet
+Timisoara	Timisoara
+Tirana	Tirana
+Togo	Togo
+Tokelau	Tokelaou
+Tokyo	Tokyo, (''academic spelling'') Tokyo
+Tonga	Tonga
+Transnistria	Transnistrie
+Transylvania	Transylvanie
+Trinidad and Tobago	Trinite-et-Tobago
+Tuesday	mardi
+Tunisia	Tunisie
+Turk	Turc
+Turkey	Turquie
+Turkish	turc
+Turkmenistan	Turkmenistan
+Tuvalu	Tuvalu
+Tyre	Tyr
+UFO	OVNI
+USA	EUA
+USSR	URSS
+Uganda	Ouganda
+Ukraine	Ukraine
+Ukrainian	ukrainien
+Ukrainian	Ukrainien
+Ulrica	Ulrique
+Uluru	Ayers Rock
+Unicode	Unicode
+Union of Soviet Socialist Republics	Union des Republiques Socialistes Sovietiques
+United Arab Emirates	Emirats Arabes Unis
+United Kingdom	Royaume-Uni
+United Nations	Organisation des Nations unies
+United States of America	Etats-Unis d'Amerique
+Uranus	Uranus
+Urdu	ourdou
+Uruguay	Uruguay
+Uzbekistan	Ouzbekistan
+VAT	TVA
+Vancouver	Vancouver
+Vanuatu	Vanuatu
+Vatican City	Vatican
+Venezuela	Venezuela
+Venice	Venise
+Venus	Venus
+Victoria	Victoria
+Vienna	Vienne
+Vietnam	Viet Nam
+Vietnamese	vietnamien
+Vietnamese	Vietnamien
+Vincent	Vincent
+Virgin Mary	Vierge Marie
+Virgo	Vierge
+Votic	vote
+Vulgar Latin	latin vulgaire
+Wales	Pays de Galles
+Wallachia	Valachie
+Warsaw	Varsovie
+Wednesday	mercredi
+Western Europe	Europe de l'Ouest
+Western Sahara	Sahara occidental
+White House	Maison Blanche
+Wikimedia Foundation	Wikimedia Foundation
+Wikipedia	Wikipedia
+Wiktionary	Wiktionnaire
+Wiktionary:Votes/2007-10/Lemma entries/words	mots
+William	Guillaume
+World War I	Premiere Guerre Mondiale
+X-ray	radiographie
+X-ray	rayon X
+Xhosa	xhosa
+Yangon	Rangoun
+Yellow Sea	mer Jaune
+Yemen	Yemen
+Yiddish	yiddish
+Young's modulus	module de Young
+Yugoslavia	Yougoslavie
+Zagreb	Zagreb
+Zambia	Zambie
+Zimbabwe	Zimbabwe
+Zoroastrianism	Zoroastrisme
+Zürich	(1, 2): Zurich
+a little	un peu
+aardvark	orycterope
+abaca	abaca
+abandoned	abandonne
+abase	baisser
+abash	confondre
+abbey	abbaye
+abbreviated	abrege
+abdication	abdication
+abdomen	abdomen
+abessive case	abessif
+abhor	detester
+ability	abilite
+ablative case	ablatif
+able	capable
+abolish	abolir
+abominate	detester
+abortion	avortement
+about	autour
+about	proche
+about	au sujet
+about	environ
+about	aux environs
+about	en train
+about	au-dessus
+abrupt	brusque
+abscess	abces
+absolute	absolu
+absolute zero	zero absolu
+absolutive case	absolutif
+absolve	absoudre
+absorb	absorber
+absorption	absorption
+abstention	abstention
+abstract	abstract
+absurd	absurde
+abundance	abondance
+abundant	abondant
+abuse	abus
+abuse	abuser
+abuse	viole
+accelerate	accelerer
+acceleration	acceleration
+accept	accepter
+accept	accueillir
+accept	prendre sur soi
+acceptable	acceptable
+acceptance	acceptation
+access	acces
+accidentally	accidentellement
+according to	selon
+accordion	accordeon
+accumulate	accumuler
+accumulator	accumulateur
+accuracy	exactitude
+accurate	precis
+accusative	accusatif
+accusative case	accusatif
+accusatory	accusateur
+accuse	accuser
+ace	as
+acetate	acetate
+acetylene	acetylene
+ache	douleur
+acid	aigre
+acid	acide
+acid rain	pluie acide
+acorn	gland
+acquired immune deficiency syndrome	syndrome d'immunodeficience acquise
+acrobat	acrobate
+acromegaly	acromegalie
+acronym	acronyme
+act	acte
+act	faire
+act	loi
+actinium	actinium
+action	action
+activate	activer
+activity	activite
+actor	acteur
+actor	faiseur
+actress	actrice
+actual	reel
+actually	en fait
+acupuncture	acupuncture
+ad hoc	ad hoc
+add	additionner
+addition	addition
+address	adresse
+adequate	adequat
+adjectival	adjectif
+adjective	adjectif
+adjust	ajuster
+adjustment	areglement
+administrator	administrateur
+admiration	admiration
+adult	adulte
+adultery	adultere
+advantage	avantage
+adventure	aventure
+adverb	adverbe
+adversary	adversaire
+advertisement	publicite
+advice	conseil
+advocate	avocat
+aeroplane	avion
+aesthetic	esthetique
+aetiology	etiologie
+after	apres
+after	derriere
+after	d'apres
+after	''no equivalent''
+after	malgre
+after	du
+afternoon	apres-midi
+again	de nouveau
+against	contre
+age	age
+age	generation
+age	epoque
+aggressive	agressif
+agnosticism	agnosticisme
+ago	il y a
+agoraphobia	agoraphobie
+agouti	agouti
+agree	accorder
+agreement	accord
+agreement	contrat
+aid	aider
+aim	cible
+air	air
+air	aerer
+air force	armee de l'air
+aircraft	avion
+aircraft carrier	porte-avions
+airplane	avion
+airport	aeroport
+al-Qaeda	Al-Qaida
+alarm clock	reveil
+alas	helas
+albatross	albatros
+albeit	bien que
+albino	albino
+albumen	glaire
+alchemist	alchimiste
+alcoholic	alcoolique
+alcoholic	alcoolise
+alder	aulne
+ale	biere anglaise
+algebra	algebre
+algorithm	algorithme
+alibi	alibi
+alien	extraterrestre
+alien	etranger
+all	tout
+all roads lead to Rome	tous les chemins menent a Rome
+allative case	allatif
+allegiance	fidelite
+alley	allee
+alligator	alligator
+alloy	alliage
+almond	amande
+almond	amandier
+almost	presque
+alone	seul
+alpaca	alpaga
+alpha	alpha
+alphabet	alphabet
+alphabetic	alphabetique
+alphabetical	alphabetique
+alpine chough	chocard a bec jaune
+already	deja
+also	aussi
+altar	autel
+although	bien que
+aluminium	aluminium
+aluminum	aluminium
+am	suis
+amaranth	amaranthe
+amateur	amateur
+amber	ambre
+amber	couleur d'ambre
+amber	feu orange
+ambigram	ambigramme
+ambiguous	ambigu
+ambrosia	ambroisie
+ambulance	ambulance
+ameliorate	ameliorer
+americium	americium
+amino acid	acide amine
+among	parmi
+ampersand	esperluette
+amphetamine	amphetamine
+amphibian	amphibien
+amusement	amusement
+an	un
+anachronistic	anachronique
+anagram	anagramme
+analogy	analogie
+analysis	analyse
+analyst	analyste
+anarchism	anarchisme
+anarchy	anarchie
+anatomy	anatomie
+anchor	ancre
+anchovy	anchois
+ancient	antique
+and	et
+angel	ange
+anger	colere
+angle	angle
+angle	point de vue
+angry	fache
+animal	animal
+anime	anime
+anise	anis
+ankle	cheville
+anno Domini	apres Jesus-Christ
+annoy	gener
+annual	annuel
+answer	reponse
+answer	solution
+ant	fourmi
+antelope	Antilope
+antenna	antenne
+anthill	fourmiliere
+anthrax	charbon
+anthropology	anthropologie
+antichrist	antechrist
+anticlockwise	dans le sens
+antimony	antimoine
+antler	bois
+antonym	antonyme
+anvil	enclume
+any	n'importe quel
+apartment	appartement
+apatite	apatite
+ape	singe
+aphorism	aphorisme
+apocalypse	apocalypse
+apostasy	apostasie
+apostle	apotre
+apostrophe	apostrophe
+apothecary	pharmacien
+apothecary	pharmacie
+appendicitis	appendicite
+appendix	annexe
+appendix	appendice
+apple	pomme
+apple	pommier
+apple pie	tarte aux pommes
+apple tree	pommier
+appreciate	apprecier
+appreciate	reconnaissant
+appreciate	se rendre (bien) compte de
+appreciate	prendre de la valeur
+apricot	abricot
+apricot	abricotier
+apron	tablier
+aquatic	aquatique
+aquifer	aquifere
+arbitrary	arbitraire
+arc	arc
+archaeology	archeologie
+archaic	archaique
+archangel	archange
+archduke	archiduc
+archer	archer
+archery	tir a l'arc
+architect	architecte
+architecture	architecture
+archive	archiver
+are	sont
+are	sommes
+are	es
+are	etes
+area	aire
+argent	argent
+arginine	arginine
+argon	argon
+argument	argument
+argument	querelle
+arise	surgir
+arithmetic	arithmetique
+arm	bras
+arm	arme
+armistice	armistice
+armor	armure
+armour	armure
+armpit	aisselle
+arrange	arranger
+arrival	arrivee
+arrogant	arrogant
+arrow	fleche
+arsenic	arsenic
+art	art
+artery	artere
+artichoke	artichaut
+artist	artiste
+as	comme
+as	aussi
+as	lorsque
+as	que
+as	puisque
+as	quand
+as	au fur et a mesure que
+ascend	monter
+ash	cendre
+ash	frene
+ashtray	cendrier
+ask	demander
+aspect	aspect
+aspirin	aspirine
+ass	ane
+ass	cul
+asshole	trou du cul
+astatine	astate
+asterisk	asterisque
+asteroid	asteroide
+astronaut	astronaute
+astronomy	astronomie
+asylum	asile
+at	a
+at least	au moins
+at sign	arobase
+at symbol	arobase
+ate	See conjugation of manger
+atheism	atheisme
+atheist	athee
+atmosphere	atmosphere
+atmosphere	ambiance
+atom	atome
+atom bomb	bombe atomique
+atomic bomb	bombe atomique
+atomic nucleus	noyau atomique
+atomic number	numero atomique
+atrocity	atrocite
+attach	attacher
+attack	attaque
+attempt	tenter
+attic	grenier
+attorney	avocat
+aubergine	aubergine
+auction	vente
+augment	augmenter
+aunt	tante
+authority	autorite
+autism	autisme
+autocracy	autocratie
+automobile	automobile, auto
+autonomous	autonome
+autonomy	autonomie
+autumn	automne
+auxiliary verb	verbe auxiliaire
+availability	disponibilite
+avalanche	avalanche
+avenue	avenue
+average	moyenne
+aviation	aviation
+avocado	avocat
+avoid	eviter
+awake	eveille
+awake	se reveiller
+awake	reveiller
+awl	alene
+axe	hache
+axis	axe
+axis of evil	axe du mal
+ayatollah	ayatollah
+aye-aye	aye-aye
+azure	azur
+baboon	babouin
+baby	bebe
+babysitter	baby-sitter
+bachelor	celibataire
+back	dos
+back	derriere
+back	fin
+back	fond
+backgammon	backgammon
+backpack	sac a dos
+bacon	lardon
+bacteria	bacteries
+bacterium	bacterie
+bad	mauvais
+badger	blaireau
+bagpipes	cornemuse
+baker	boulanger
+bakery	boulangerie
+baklava	baklava
+balalaika	balalaika
+balance	balance
+balance	equilibre
+balcony	balcon
+bald	chauve
+ball	(''small, such as a cricket ball'') balle
+ball	balle
+ball	bal
+ball	couille
+ball	boule
+ball bearing	roulement mecanique
+balloon	ballon
+balloon	montgolfiere
+ballpoint pen	bic
+bamboo	bambou
+banana	banane
+banana	bananier
+band-aid	pansement
+bandy	bandy
+banjo	banjo
+bank	banque
+bankrupt	faillite
+bankruptcy	faillite
+banner	baniere
+banner	banderole
+baptism	bapteme
+bar	bar
+bar	barre
+barbed wire	fil de fer barbele
+barber	coiffeur
+barefoot	pieds nus
+barge	chaland
+barium	baryum
+bark	ecorce
+bark	aboyer
+bark	aboiement
+barley	orge
+barn owl	chouette effraie
+base	base
+baseball	baseball
+basement	sous-sol
+basil	basilic
+basilisk	basilic
+basket	panier
+basketball	basket-ball
+bass	bas
+bassoon	basson
+bastard	batard
+bat	chauve-souris
+bat	baton
+bath	bain
+bath	salle de bains
+bathe	(se) baigner
+bathroom	toilette
+bathroom	salle de bains
+battery	pile
+battle	bataille
+battleship	cuirasse
+bay	baie
+bayonet	baionnette
+bazaar	bazar
+be	etre
+be	aller
+be	faire
+be	''not translated; use the equivalent simple tense, or the imperfect in the past''
+beach	plage
+beach volleyball	beach-volley
+beak	bec
+beam	poutre
+bean	haricot
+bear	ours
+bear	porter
+bear	supporter
+beard	barbe
+beast	bete
+beat	battre
+beautiful	beau
+beaver	castor
+because	parce que
+become	devenir
+bed	lit
+bedbug	punaise des lits
+bedroom	chambre
+bee	abeille
+beech	hetre
+beef	beuf
+beehive	ruche
+beer	biere
+beeswax	cire d'abeille
+beet	betterave
+beetle	scarabee
+beetle	Coccinelle
+before	devant
+before	avant
+beg	mendier
+beg	implorer
+begin	commencer
+beginning	debut
+behavior	comportement
+behaviour	comportement
+behind	derriere
+behind	apres
+behold	regarder
+beige	beige
+being	creature
+being	existence
+belief	foi
+belief	croyance
+belly	ventre
+belt	ceinture
+bench	banc
+beret	beret
+berkelium	berkelium
+berry	baie
+beryllium	beryllium
+best regards	cordialement
+bet	parier
+better	meilleur
+between	entre
+beverage	boisson
+biathlon	biathlon
+bicycle	bicyclette
+bidet	bidet
+big	grand
+big toe	pouce
+bike	velo
+bike	moto
+bikini	bikini
+bile	bile
+billiards	billards
+billion	milliard
+billionaire	milliardaire
+bind	relier
+binoculars	jumelles
+biochemistry	biochimie
+biography	biographie
+biological	biologique
+biology	biologie
+birch	bouleau
+bird	oiseau
+bird	poule
+bird of prey	rapace
+birth	naissance
+birth	accoucher
+birthday	anniversaire
+birthday	date de naissance
+birthmark	tache de naissance
+biscuit	biscuit
+bishop	eveque
+bishop	fou
+bit	bit
+bit	petit morceau
+bitch	chienne
+bite	mordre
+bitter	amer
+bittern	butor
+black	noir
+black grouse	tetras lyre
+black hole	trou noir
+black woodpecker	pic noir
+black-headed gull	mouette rieuse
+blackberry	mûre
+blackberry	ronce
+blackbird	merle
+blackboard	tableau noir
+blacksmith	forgeron
+blacksmith	marechal-ferrant
+bladder	vessie
+blade	lame
+blanket	couverture
+bleed	saigner
+bless	benir
+bless you	a vos souhaits
+blind	aveugle
+blindness	cecite
+blog	blog
+blood	sang
+blood type	groupe sanguin
+bloody	sanglant
+blouse	chemisier
+blow	souffler
+blowjob	pipe
+blue	bleu
+blue tit	mesange bleue
+blue whale	baleine bleue
+blueberry	myrtille
+boar	sanglier
+boar	verrat
+boat	bateau
+body	corps
+body	corpus
+bodybuilder	culturiste
+bodybuilding	culturisme
+bohrium	bohrium
+boil	faire bouillir
+bold	courageux
+bold	gras
+bomb	bombe
+bomb	bombarder
+bon appetit	bon appetit&nbsp;!
+bone	os
+book	livre
+book	reserver
+bookshop	librairie
+bookstore	librairie
+boomerang	boomerang
+boot	botte
+border	frontiere
+bored	ennuye
+boredom	ennui
+boring	ennuyeux
+born	ne
+boron	bore
+borrow	emprunter
+boss	patron
+both	les deux
+bottle	bouteille
+bottle	biberon
+bottle	embouteiller
+bottom	fond
+bottom	arriere-train
+bouquet	bouquet
+bovine spongiform encephalopathy	encephalopathie spongiforme bovine
+bow	arc
+bow	archet
+bow	etrave
+bow	s'incliner
+bow	reverence
+bow	flechir
+bowl	bol
+bowtie	neud papillon
+box	boite
+boxer	boxeur
+boxing	boxe
+boy	garcon
+boy	gars
+boy	les garcon
+boyfriend	petit ami
+bra	soutien-gorge
+bracelet	bracelet
+brain	cerveau
+brain stem	tronc cerebral
+brake	frein
+brake	freiner
+bran	son
+brass	laiton
+brave	courageux
+bravery	courage
+bread	pain
+break	rompre
+break	se rompre
+break	se casser
+break	casser
+break	outrepasser
+break	briser
+break	pause
+breakfast	petit dejeuner
+breakfast	prendre le petit-dejeuner
+breast	sein
+breast	poitrine
+breeze	brise
+bribe	pot-de-vin
+bribery	corruption
+brick	brique
+bride	jeune mariee
+bridegroom	fiance
+bridge	pont
+bridge	bridge
+brief	bref
+bring	apporter
+brochure	brochure
+bromine	brome
+brooch	broche
+brook	ruisseau
+broth	bouillon
+brothel	bordel
+brother	frere
+brother-in-law	beau-frere
+brown	brun
+brown	marron
+brown dwarf	naine brune
+brush	brosse
+brush	brosser
+bucket	seau
+buckwheat	ble sarrasin
+bud	bourgeon
+buffalo	buffle
+buffalo	bison
+bug	insecte
+bug	bogue
+build	construire
+building	batiment
+building	construction
+bulky	gros
+bull	taureau
+bull	male
+bull	bulle
+bulldog	bouledogue
+bullet	balle
+bullshit	conneries
+bumblebee	bourdon
+bundle	ballot
+burdock	bardane
+bureaucracy	bureaucratie
+burka	burqa
+burn	brûler
+burp	faire un rot
+burp	rot
+bus	autobus
+bush	buisson
+business	affaire
+businessman	homme d'affaires
+businesswoman	femme d'affaires
+bustard	outarde
+busybody	touche-a-tout
+but	mais
+but	sauf
+butcher	boucher
+butter	beurre
+butter	beurrer
+butter up	flatter
+butterfly	papillon
+buttermilk	babeurre
+buttock	fesse
+buy	acheter
+buzzard	buse
+by	a cote
+by	de
+by	au moyen
+by the way	soit dit en passant
+bye	salut
+byte	octet
+cabbage	chou
+cable	cable
+cactus	cactus
+cadaver	cadavre
+cadmium	cadmium
+caesium	cesium
+cafeteria	cafeteria
+cake	gateau
+calcium	calcium
+calculate	calculer
+calculator	calculatrice
+calculus of variations	Calcul des variations
+calendar	calendrier
+calf	veau
+calf	mollet
+californium	californium
+call	appel
+call	appeler
+call	chant
+callsign	indicatif d'appel
+camel	chameau
+camera	appareil photo
+camouflage	camouflage
+campaign	campagne
+can	pouvoir
+can	bidon
+can	boite de conserve
+can	arrosoir
+can	conserver
+can	se taire
+canary	canari
+cancer	cancer
+candidate	candidat
+candle	bougie
+candlestick	chandelier
+candy	bonbon
+cane	canne
+cannon	canon
+capercaillie	grand tetras
+capillary	capillaire
+capital	capitale
+capital	capital
+capital	majuscule
+capital punishment	punition capitale
+capitalism	capitalisme
+capitol	Capitole
+car	voiture
+car	wagon
+carbon	carbone
+carbon	charbon
+carbon dioxide	anhydride carbonique
+carbon monoxide	oxyde de carbone
+carboxylic	carboxylique
+carboxylic acid	acide carboxylique
+carcass	Carcasse
+cardinal	cardinal
+cardinal number	nombre cardinal
+cardiologist	cardiologue
+career	carriere
+carefree	insouciant
+carnation	oeillet
+carp	carpe
+carpenter	menuisier
+carpet	tapis
+carrot	carotte
+carry	porter
+case	cas
+case	ecrin
+case	cause
+cash	especes
+cassava	manioc
+castle	tour
+castle	chateau
+castling	roque
+cat	chat
+cat	felin
+catalogue	catalogue
+catapult	catapulte
+category	categorie
+caterpillar	chenille
+catfish	poisson-chat
+cathedral	cathedrale
+catheter	catheter
+cattle	bovin
+cauliflower	chou-fleur
+cave	caverne
+caviar	caviar
+cease	cesser
+cedar	cedre
+cedilla	cedille
+ceiling	plafond
+celery	celeri
+cell	cellule
+cell phone	mobile
+cemetery	cimetiere
+cenotaph	cenotaphe
+cent	cent
+centimetre	centimetre
+century	siecle
+century	centurie
+ceramic	ceramique
+cerium	cerium
+chador	tchador
+chain	chaine
+chainsaw	tronconneuse
+chair	chaise
+chairman	secretaire general
+chalcedony	calcedoine
+chalk	craie
+chamber	chambre
+chamois	chamois
+champagne	champagne
+chance	chance
+chandelier	lustre
+change	changement
+change	changer
+change	monnaie
+change	remplacer
+channel	canaliser
+chaos	chaos
+chaos theory	theorie du chaos
+chapter	chapitre
+character	personnage
+character	caractere
+charcoal	charbon
+chase	poursuivre
+chase	poursuite
+chaulk	craie
+cheap	bon marche
+check	echec
+check	cheque
+check	addition
+checksum	somme de controle
+cheek	joue
+cheers	a votre sante
+cheese	fromage
+cheetah	guepard
+chemical	chimique
+chemist	chimiste
+cheque	cheque
+cherry	cerise
+cherry	cerisier
+chess	echecs
+chessboard	echiquier
+chest	poitrine
+chest	coffre
+chestnut	chataigne
+chew	macher
+chewing gum	chewing-gum
+chick	poussin
+chick	oisillon
+chick	nana
+chicken	poule
+chicken	poulet
+chicken	poule mouillee
+chickpea	pois chiche
+child	enfant
+children	enfants
+chimpanzee	chimpanze
+chin	menton
+chive	ciboulette
+chlorine	chlore
+chocolate	chocolat
+chocolate	de chocolat
+choice	choix
+choir	cheur
+cholera	cholera
+choose	choisir
+chopstick	baguette
+chord	accord
+chorus	cheur
+chromium	chrome
+chromosome	chromosome
+church	eglise
+cicada	cigale
+cigar	cigare
+cigarette	cigarette
+cinema	cinema
+cinema	film
+cinnamon	cannelle
+cinnamon	cannelier
+circle	cercle
+circle	disque
+circle	entourer
+circle	cercler
+circumcision	circoncision
+circumference	circonference
+city	ville
+civil war	guerre civile
+clandestine	clandestin
+clarinet	clarinette
+classification	classification
+claustrophobia	claustrophobie
+clay	argile
+cleaver	fendoir
+cliche	cliche
+cliff	falaise
+climate	climat
+climb	grimper
+clock	horloge
+clockwise	dans le sens
+close	fermer
+close	proche
+close	clore
+closed	ferme
+cloth	tissu
+clothes	vetements
+cloud	nuage
+clove	clou de girofle
+clover	trefle
+clown	clown
+club	club
+club	baton
+club	trefle
+clubs	trefles
+coach	entraineur
+coach	entrainer
+coal	charbon
+coarse	brut
+coast	cote
+coat	manteau
+coat	couche
+coat of arms	armoiries
+cobalt	cobalt
+cobra	naja
+coca	coca
+cocaine	cocaine
+cock	queue
+cock	coq
+cock	male
+cock-a-doodle-doo	cocorico
+cockle	ivraie enivrante
+cockroach	blatte
+cocktail	cocktail
+cocoa	cacao
+cod	morue
+code	code
+coeliac disease	celialgie
+coffee	cafe
+coffee	cafeier
+coin	monnaie
+cola	coca
+cold	froid
+cold	rhume
+cold fusion	fusion froide
+collaborate	collaborer
+collage	collage
+collar	col
+collarbone	clavicule
+colloquial	familier
+colon	deux points
+colon	colon
+colonel	colonel
+colony	colonie
+colt	poulain
+comb	peigne
+come	venir
+comet	comete
+comitology	comitologie
+comma	virgule
+comment	commentaire
+committee	comite
+common	commun
+common gull	goeland
+common kestrel	faucon crecerelle
+communism	communisme
+communist	communiste
+company	compagnie
+comparative	comparatif
+compass	boussole
+competency	competence
+competition	concours
+competition	competition
+complete	complet
+complete	accomplir
+complex	complexe
+complex number	nombre complexe
+complexity	complexite
+component	composant
+computer	ordinateur
+computer game	jeu video
+computer science	informatique
+comrade	camarade
+concept	concept
+concertina	en accordeon
+concrete	beton
+concrete	de beton
+concrete	concret
+condom	preservatif
+conductor	chef d'orchestre
+conductor	conducteur
+confiscate	confisquer
+conflagration	conflagration
+conflict	conflit
+congratulate	feliciter
+conjunction	conjonction
+connoisseur	connaisseur
+consanguinity	consanguinite
+conscience	conscience
+conscious	conscient
+consciousness	conscience
+consensus	consensus
+consonant	consonne
+constellation	constellation
+consumption	consommer
+contact	contacter
+contact	contact
+contact lens	lentille de contact
+contagion	contagion
+contemporary	contemporain
+contempt	mepris
+content	contenu
+continent	continent
+contract	contrat
+contradict	contredire
+control	controler
+control	controle
+convenient	commode
+conversation	conversation
+convertible mark	mark convertible
+convex	convexe
+cook	chef
+cook	faire cuire
+cook	cuisiner
+cook	cuire
+cookbook	livre de cuisine
+cooked	cuit
+cookie	biscuit
+cool	frais
+coordinate	coordonnee
+copper	cuivre
+copper	cuivre
+copra	coprah
+copy	copier
+copy	imiter
+copy	recevoir
+copyright	depends on the kind of law applicable: droit d'auteur
+cor anglais	cor anglais
+coral	corail
+core	centre
+cormorant	cormoran
+corn	mais
+corner	coin
+corporation	corporation
+corpse	cadavre
+corridor	couloir
+corridor	couloir aerien
+corset	corset
+cosmology	cosmologie
+cotton	coton
+cotton candy	barbe a papa
+cough	tousser
+cough	toux
+count	comte
+count	compter
+countess	comtesse
+country	pays
+country	campagne
+country	de la campagne
+county	comte
+coup d'etat	coup d'Etat
+couple	couple
+courage	courage
+course	cours
+cousin	cousin
+cover	couverture
+cow	vache
+cow	garce
+cow	bovin
+cowardice	lachete
+coyote	coyote
+crab	crabe
+cradle	berceau
+cranberry	canneberge
+crane	grue
+crayfish	ecrevisse
+crazy	fou
+cream	creme
+create	creer
+creation	creation
+creative	creatif
+creativity	creativite
+creator	createur
+creature	creature
+creep	ramper
+crew	equipage
+cricket	grillon
+cricket	cricket
+crisis	crise
+criterion	critere
+criticism	critique
+croissant	croissant
+cross	croix
+cross	traverser
+crossbow	arbalete
+crossword	mots croises
+crow	corneille
+crowbar	pied-de-biche
+crown	couronne
+crude oil	petrole brute
+cruel	cruel
+crusade	croisade
+crust	croûte
+crustacean	crustace
+crutch	bequille
+cry	pleurer
+cry	cri
+crystal	cristal
+cub	petit
+cube	cube
+cube	elever
+cubism	cubisme
+cuckoo	coucou
+culture	culture
+cum	venir
+cunt	con
+cunt	chatte
+cup	tasse
+cure	traitement
+cure	traiter
+curiosity	curiosite
+curium	curium
+currant	groseille
+currency	monnaie
+current	courant
+currently	maintenant
+curriculum vitae	curriculum vitæ
+curse	mauvais sort
+curse	maudire
+curve	courbe
+cushion	coussin
+customer	client
+cute	mignon
+cutlery	couverts
+cycle	tour
+cyclone	cyclone
+cylinder	cylindre
+cymbal	cymbales
+cypress	cypres
+czar	tsar
+dachshund	teckel
+daddy	papa
+daffodil	jonquille
+dagger	poignard
+daily	quotidien
+daily	quotidiennement
+dam	barrage
+dance	danse
+dance	danser
+dancer	danseur
+dandelion	pissenlit
+dangerous	dangereux
+dare	oser
+dark	obscure
+dark	noir
+dark	tombee de la nuit
+darkness	obscurite
+darmstadtium	darmstadtium
+date	datte
+date	date
+date	rendez-vous
+dative	datif
+dative case	datif
+daughter	fille
+daughter-in-law	bru
+dawn	lever du soleil
+dawn	aube
+day after tomorrow	apres-demain
+day before yesterday	avant-hier
+dead	mort
+deadly nightshade	belladone
+deaf	sourd
+death	mort
+debate	debat
+debate	debattre
+debtor	debiteur
+decade	decennie
+decay	pourrir
+deceased	decede
+deceased	defunt
+deceive	tromper
+decimetre	decimetre
+declare	declarer
+declension	declinaison
+deed	haut fait
+deer	cerf
+defamation	diffamation
+defeat	defaire
+defeat	defaite
+defeatism	defaitisme
+defendant	inculpe
+definite article	article defini
+degree	degre
+degree	diplome
+deism	deisme
+delicious	delicieux
+delirium	delire
+democracy	democratie
+democratic	democratique
+den	terrier
+density	densite
+dentist	dentiste
+deodorant	deodorant
+deoxyribonucleic acid	acide desoxyribonucleique
+depression	depression
+depth	profondeur
+desert	desert
+desert	deserter
+design	conception
+desire	desir
+desk	bureau
+despise	dedaigner
+dessert	dessert
+destination	arrivee
+destiny	destinee
+destroy	detruire
+deuterium	deuterium
+devil	diable
+devil	le fr
+dew	rosee
+dialect	dialecte
+dialectology	dialectologie
+dialogue	dialogue
+diameter	diametre
+diamond	diamant
+diaper	couche
+diarrhea	diarrhee
+diary	journal
+dick	bitte
+dictator	dictateur
+dictionary	dictionnaire
+die	mourir
+die	de
+difference	difference
+different	different
+differential equation	equation differentielle
+difficult	difficile
+digestion	digestion
+digit	chiffre
+digit	doigt
+diligent	diligent
+dill	aneth
+dining room	salle a manger
+dinner	diner
+dinosaur	dinosaure
+dirty	sale
+dirty	cochon
+dirty	salir
+dirty	salissant
+discover	decouvrir
+discuss	discuter
+discussion	discussion
+disease	maladie
+disgust	degoût
+dish	assiette
+dish	plat
+dishwasher	lave-vaisselle
+diskette	disquette
+distance	distance
+district	district
+ditch	fosse
+divide	diviser
+division	division
+divorce	divorce
+do	faire
+do you speak English	parlez-vous anglais
+dobra	dobra
+docile	docile
+doctor	medecin
+dodo	dodo
+dog	chien
+doll	poupee
+dolphin	dauphin
+donate	donner
+donation	donation
+donkey	ane
+door	porte
+dormouse	loir
+dot	point
+doubt	doute
+doubt	douter
+dough	pate
+doughnut	beignet
+dove	colombe
+down	a bas
+download	telechargement
+download	telecharger
+dowry	dot
+doxology	doxologie
+dozen	douzaine
+dragon	dragon
+dragonfly	libellule
+drastic	drastique
+draw	dessiner
+drawer	tiroir
+dream	reve
+dream	rever
+dress	robe
+dress	habiller
+dress	s'habiller
+drink	boire
+drink	verre
+drink	boisson
+drinking straw	paille
+drinking water	eau potable
+drive	guider
+driver	conducteur
+driver	pilote
+dromedary	dromadaire
+drop	goutte
+drought	secheresse
+drown	se noyer
+drug	drogue
+drum	tambour
+drunk	ivre
+drunk	ivrogne
+dry	sec
+dry	secher
+duchess	duchesse
+duck	canard
+duck	cane
+duckling	canardeau
+dude	type
+duke	duc
+dulcimer	tympanon
+dull	emousse
+dull	ennuyeux
+duma	douma
+dumb	muet
+dune	dune
+dung	fumier
+dungeon	oubliette
+dust	poussiere
+duty	devoir
+duty	taxe
+dwarf	nain
+dwarf planet	planete naine
+dwell	resider
+dye	teinture
+dye	teindre
+dynamics	dynamique
+e-mail	courrier electronique
+e.g.	par ex.
+each	chaque
+eagle	aigle
+eagle owl	grand duc
+ear	oreille
+ear	labourer
+eardrum	tympan
+early	tot
+earth	terre
+earthquake	tremblement de terre
+earthworm	ver
+earwax	cerumen
+earwig	forficule
+east	est
+east	d'est
+east	a l'est
+east	oriental
+east	vers
+easy	facile
+eat	manger
+ebb	reflux
+ebony	ebene
+echidna	echidne
+eclipse	eclipse
+eco-	eco-
+ecology	ecologie
+economics	economie
+economy	economie
+ecumenism	ecumenisme
+eczema	eczema
+edge	bord
+edible	comestible
+edit	modifier
+edition	edition
+eel	anguille
+effendi	effendi
+efficacy	efficience
+egg	euf
+egg yolk	jaune d'euf
+ego	moi
+eigenvalue	valeur propre
+eight	huit
+eighteen	dix-huit
+eighth	huitieme
+eighty-eight	quatre-vingt-huit
+eighty-nine	quatre-vingt-neuf
+eighty-one	quatre-vingt-un
+eighty-seven	quatre-vingt-sept
+eighty-six	quatre-vingt-six
+eighty-two	quatre-vingts deux
+ejaculate	(''of a man'') ejaculer
+ejaculation	ejaculation
+elderberry	sureau
+election	election
+electricity	electricite
+electromagnet	electro-aimant
+electromagnetism	electromagnetisme
+electron	electron
+elegant	elegant
+elephant	elephant
+eleven	onze
+eleven hundred	mille cent
+eleventh	onzieme
+elf	elfe
+elixir of life	elixir de la longue vie
+elk	elan
+ellipse	ellipse
+elm	orme
+embassy	ambassade
+embed	enfoncer
+embezzlement	detournement
+embryo	embryon
+emerald	emeraude
+emergence	emergence
+emotion	emotion
+emperor	empereur
+empire	empire
+employ	employer
+employee	employe
+empty	vide
+empty	vider
+empty set	ensemble vide
+enantiomer	enantiomere
+encephalopathy	encephalopathie
+encourage	encourager
+encyclopaedia	encyclopedie
+encyclopedia	encyclopedie
+end	fin
+end	finir
+enemy	ennemi
+energy	energie
+engine	moteur
+engine	locomotive
+engineer	ingenieur
+engineer	machiniste
+english	french
+enhanced remake	remake ameliore
+enigma	enigme
+enigmatic	enigmatique
+enough	suffisamment
+enough	assez
+enough	ca
+enter	entrer
+enthusiasm	enthousiasme
+entrance	entree
+entropy	entropie
+envelope	enveloppe
+environment	environnement
+envy	envie
+ephemeral	ephemere
+epidemic	epidemie
+epiglottis	epiglotte
+epoch	epoque
+equation	equation
+equator	equateur
+equilibrium	equilibre
+equinox	equinoxe
+era	ere
+ereyesterday	avant-hier
+ergative case	cas ergatif
+ergo	donc
+ermine	hermine
+erotic	erotique
+errant	errant
+eschatology	eschatologie
+essay	essai
+establishment	etablissement
+et cetera	et cetera
+etc.	etc.
+eternal	eternel
+ethnic cleansing	nettoyage ethnique
+eucalyptus	eucalypte
+eukaryote	eucaryote
+eunuch	eunuque
+euro	euro
+euthanasia	euthanasie
+evacuate	evacuer
+evacuation	evacuation
+even	meme
+even	pair
+evening	soir
+eventually	finalement
+every	chaque
+everybody	tout le monde
+everyone	chacun
+everything	tout
+everywhere	partout
+evil	mauvais
+evil	mal
+evolution	evolution
+ewe	brebis
+exactly	exactement
+exaggerate	exagerer
+examination	examen
+example	exemple
+excommunication	excommunication
+excuse me	pardon
+exist	exister
+existence	existence
+exit	sortie
+exit	sortir
+expensive	cher
+experience	eprouver
+experiment	experience
+explain	expliquer
+exploit	exploiter
+expression	expression
+expressway	route express
+extensive	etendu
+external	externe
+extinction	Extinction des especes
+extraordinary	extraordinaire
+extraterrestrial	extraterrestre
+eye	eil
+eye	chas
+eyebrow	sourcil
+eyelash	cil
+eyelid	paupiere
+fable	conte
+face	face
+face	faire face a
+face	affronter
+fact	fait
+factorial	Factorielle
+factory	usine
+faeces	feces
+faggot	pede
+failure	echec
+fair	beau
+fairy	fee
+fairy tale	conte de fees
+faith	foi
+falcon	faucon
+fall	tomber
+fall	chute
+fall in love	tomber amoureux
+fallow deer	daim
+false	faux
+family	famille
+family	parent
+famine	famine
+fan	ventilateur
+fan	eventail
+fan	fan
+fang	croc
+far	lointain
+fare	prix
+farm	ferme
+farmer	fermier
+fart	peter
+fart	pet
+fascism	fascisme
+fast	rapide
+fast	jeûner
+fast	rapidement
+fast	jeûne
+fast food	fast-food
+fat	gros
+fat	gras
+fate	destin
+father	pere
+father-in-law	beau-pere
+fatherland	patrie
+fathom	brasse
+fault	defaut
+favor	faveur
+fawn	faon
+fax	machine : fax
+facade	facade
+fear	craindre
+fear	peur
+feasible	faisable
+feat	exploit
+feather	plume
+feature	caracteristique
+feceate	defequer
+feces	feces
+federation	federation
+fee	honoraires
+feed	nourrir
+feel	ressentir
+feeling	sentiment
+feeling	sensation
+feeling	epreuve
+feeling	sentiments
+fellatio	fellation
+female	feminin
+female	femelle
+feminine	feminin
+feminism	feminisme
+fence	cloture
+fencing	escrime
+fennel	fenouil
+fermata	point d'orgue
+ferret	furet
+ferry	ferry
+festival	festival
+fetus	fetus
+fever	fievre
+few	peu
+fewer	moins
+fiance	fiance
+field	champ
+field	terrain
+field	corps
+fifteen	quinze
+fifteenth	quinzieme
+fifth	cinquieme
+fifty	cinquante
+fifty-one	cinquante et un
+fifty-six	cinquante-six
+fig	figue
+fig	figuier
+fight	se battre
+fight	lutte
+fight	combattre
+fight	bataille
+fight	combat
+figure	chiffre
+figure	figure
+figure	personnage
+figure skating	patinage artistique
+file	fichier
+file	lime
+fill	remplir
+finally	enfin
+finch	pinson
+find	trouver
+fine	amende
+finger	doigt
+fingerprint	empreinte digitale
+finish	finir
+finish	fin
+fir	sapin
+fire	feu
+fire	incendie
+fire	poele
+fire	licencier
+fire	tirer
+fire	cuire
+firearm	arme a feu
+firefighter	pompier
+firefly	luciole
+fireman	pompier
+fireplace	cheminee
+firework	feu d'artifice
+first	premier
+first name	prenom
+fish	poisson
+fish	faire la peche
+fish	de poisson
+fisher	pecheur
+fishhook	hamecon
+fishing	peche
+fishing rod	canne a peche
+fist	poing
+five	cinq
+five hundred	cinq cents
+flag	drapeau
+flag	pavillon
+flame	flamme
+flamethrower	lance-flamme
+flamingo	flamant
+flat	plain
+flax	lin
+flea	puce
+flesh	chair
+flex	bander
+flight	vol
+flock	vol
+flood	inondation
+floor	sol
+floor	etage
+floppy	souple
+flounder	flet
+flour	farine
+flow	ecoulement
+flow	couler
+flow	flux
+flower	fleur
+flower	fleurir
+flowerpot	pot de fleurs
+flu	grippe
+fluent	courant
+fluid	fluide
+fluorine	fluor
+flute	flûte
+fly	mouche
+fly	voler
+fly	braguette
+flying saucer	soucoupe volante
+foal	poulain
+foam	ecume
+fodder	fourrage
+foe	ennemi
+foetus	fetus
+fog	brouillard
+fold	plier
+folder	dossier
+follow	suivre
+font	fonte
+food	nourriture
+fool	imbecile
+fool	fou
+foosball	baby-foot
+foot	pied
+foot	patte
+foot	payer
+football	ballon de foot
+for	parce que
+for	pour
+for example	par exemple
+forbid	interdire
+force	force
+ford	gue
+forecast	prevoir
+forefinger	index
+forehead	front
+foreign	etranger
+foreigner	etranger
+foresee	prevoir
+forest	foret
+forget-me-not	ne-m'oubliez-pas
+fork	fourchette
+fork	fourche
+formaldehyde	methanal
+former	celui-la, ce premier(e); precedent
+formula	formule
+forsake	abandonner
+fortnight	quinzaine
+forty	quarante
+forty-two	quarante-deux
+forward	en avant
+fountain	fontaine
+four	quatre
+four-stroke engine	cycle a quatre temps
+fourteen	quatorze
+fourteenth	quatorzieme
+fourth	quatrieme
+fox	renard
+frame	Cadre
+francium	francium
+freckle	tache de rousseur
+free	libre
+free	gratuit
+free	liberer
+freedom	liberte
+freedom of speech	liberte d'expression
+freeze	glacer
+freeze	congeler
+freeze	se figer
+french fries	frites
+french kiss	patin
+frequency	frequence
+frequent	frequent
+fresh	frais
+friend	ami
+friend	petit ami
+friends	amis
+friendship	amitie
+frog	grenouille
+from	de
+from scratch	a partir de zero
+froth	mousse
+fruit	fruit
+fruit	pede
+fry	faire frire
+fuck	baiser
+fuck	enculer
+fuck	baisage
+fuck	foutre
+fuck	bousiller
+fuck	putain
+fulcrum	point
+full	plein
+full	complet
+full	rassasier
+full	total
+full moon	pleine lune
+function	fonction
+function	fonctionner
+functionality	fonctionnalite
+fundamentalism	fondamentalisme
+funeral	funerailles
+funeral	funeraire
+fungus	fongus
+funnel	entonnoir
+furniture	mobilier
+furrow	sillon
+future	avenir
+future	futur
+galaxy	galaxie
+galaxy	Voie
+gallium	gallium
+gallows	gibet
+game	jeu
+garbage	ordures
+garden	jardin
+garden	jardin public
+garden	de jardin
+garlic	ail
+garment	vetement
+gas chamber	chambre a gaz
+gas station	station-service
+gasoline	essence
+gaucho	gaúcho
+gay	gai
+gay	gai, gay
+gazelle	gazelle
+gem	joyau
+gender	genre
+gender	sexe
+gene	gene
+genetic	genetique
+genie	genie
+genitive	genitif
+genitive case	genitif
+genius	genie
+genocide	genocide
+genome	genome
+genre	genre
+gentleman	gentilhomme
+gentleman	messieurs
+genuflect	faire une genuflexion
+genus	genre
+geography	geographie
+geology	geologie
+geometry	geometrie
+germanium	germanium
+gerund	gerondif
+get	recevoir
+get	obtenir
+get	capter, piger
+get lost	casse-toi
+get up	se lever
+ghost	fantome
+giant	geant
+gift	present
+gift	don
+gift	regaler
+ginger	gingembre
+giraffe	girafe
+girl	fille
+girlfriend	petite amie
+girlfriend	amie intime
+give	donner
+give a blowjob	faire
+give me	donnez-moi
+given name	prenom
+glacier	glacier
+glad	content
+gland	glande
+glasnost	glasnost
+glass	verre
+glass harmonica	glassharmonica
+glaucoma	glaucome
+global warming	rechauffement climatique
+globalisation	mondialisation
+glockenspiel	carillon
+glove	gant
+glue	colle
+gnat	moucheron
+gnaw	ronger
+gneiss	gneiss
+gnu	gnou
+go	aller
+go	s'en aller
+go	go
+goal	but
+goal	objectif
+goalkeeper	gardien de but
+goat	chevre
+goatee	barbiche
+goblin	gobelin
+god	dieu
+goddess	deesse
+gold	or
+gold	d'or
+gold	dore
+golden eagle	aigle royal
+goldfish	carassin dore
+golf	golf
+gong	gong
+good	bon
+good afternoon	bonjour
+good day	bonjour
+good evening	bonsoir
+good luck	bonne chance
+good morning	bonjour
+good night	bonne nuit
+goodbye	au revoir
+goods	biens
+google	googler
+goose	oie
+gooseberry	groseille
+gorilla	gorille
+goshawk	autour
+gossip	commerage
+gout	goutte
+government	gouvernement
+grain	grain
+gram	gramme
+grammar	grammaire
+grand unification theory	grande unification
+grandchild	petit-enfant
+granddaughter	petite-fille
+grandfather	grand-pere
+grandmother	grand-mere
+grandparent	grand-parent
+grandson	petit-fils
+grape	raisin
+grapefruit	pamplemousse
+graph	graphe
+graph theory	theorie des graphes
+graphical user interface	environnement graphique
+grass	herbe
+grass	pelouse
+grasshopper	sauterelle
+gratis	gratuit
+graveyard	cimetiere
+gravitation	gravitation
+gravity	gravite
+gravy	sauce au jus
+grease	graisse
+great northern diver	plongeon huard
+great spotted woodpecker	pic epeiche
+great tit	mesange
+great-grandfather	arriere-grand-pere
+greedy	glouton
+green	vert
+green	peu
+green woodpecker	pic vert
+greenhouse	serre
+greenhouse effect	effet de serre
+grey	gris
+grey heron	heron cendre
+greylag goose	oie cendree
+griffon vulture	vautour fauve
+grind	moudre
+groom	fiance
+gross domestic product	produit interieur brut
+group	groupe
+guarantee	garantir
+guard	garder
+guess	conjecture
+guess	deviner
+guest	invite
+guest	client
+guide book	guide
+guilt	culpabilite
+guinea fowl	pintade
+guinea pig	cochon d'Inde
+guitar	guitare
+guitarist	guitariste
+gules	gueules
+gull	goeland
+gullet	oesophage
+gum	gencive
+gun	pistolet
+guts	entrailles
+gypsy	bohemien
+habit	habitude
+haddock	aiglefin
+hadron	hadron
+haemorrhage	hemorragie
+hafnium	hafnium
+hail	grele
+hail	greler
+hair	cheveu
+hair	poil
+haircut	coupe
+hairy	poilu
+hajj	hajj
+half	moitie
+half brother	demi-frere
+half-life	demi-vie
+hallelujah	alleluia
+halva	halva
+ham	jambon
+hamburger	hamburger
+hammer	marteau
+hammock	hamac
+hamster	hamster
+hand	main
+hand	aiguille
+hand	donner
+hand	matelot
+handball	handball
+handcuffs	menottes
+handkerchief	mouchoir
+handsome	beau
+hangover	gueule
+happen	advenir
+happiness	bonheur
+happy	heureux
+happy	satisfait
+happy birthday	bon anniversaire
+harbor	port, quai
+harbour	port
+hard	dur
+hardly	guere
+hardware	materiel
+hare	lievre
+harem	harem
+harp	harpe
+harpoon	harpon
+harpsichord	clavecin
+harrow	herse
+harsh	dur
+harvestman	faucheur
+hassium	hassium
+hat	chapeau
+hate	hair
+hatred	haine
+have	avoir
+hawk	faucon
+hawthorn	aubepine
+hay	foin
+hay fever	rhume des foins
+hazel	noisetier
+hazel	noisette
+hazelnut	noisette
+he	il
+head	tete
+head	chef
+head	commander
+head	se diriger
+health	sante
+heap	tas
+hear	entendre
+heart	ceur
+heart attack	infarctus du myocarde
+hearth	foyer
+heather	bruyere
+heaven	ciel
+heavy	lourd
+heavy water	l'eau lourde
+hedgehog	herisson
+hedonism	hedonisme
+heel	talon
+height	hauteur
+helicopter	helicoptere
+helium	helium
+hell	enfer
+hello	salut
+hello	allo
+hello	eh oh
+helmet	casque
+help	aide
+help	aider
+help	au secours
+hemisphere	hemisphere
+hemorrhage	hemorragie
+hemp	chanvre
+hen	poule
+hence	ainsi
+henceforth	dorenavant
+her	son
+her	(''after preposition'') elle
+herbivore	herbivore
+here	ici
+here	par ici
+heretic	heretique
+hero	heros
+heroin	heroine
+heroine	heroine
+heron	heron
+herring	hareng
+herself	elle-meme
+heterogeneous	heterogene
+heterosexuality	heterosexualite
+heuristic	heuristique
+hexagon	hexagone
+hi	salut
+hiccup	hoquet
+hide	cacher
+hide	se cacher
+hide and seek	cache-cache
+high	haut
+high	planer
+highway	grande route
+hill	colline
+him	(''after preposition'')
+himself	lui-meme
+hinder	entraver
+hinny	bardot
+hip	hanche
+hippopotamus	hippopotame
+his	son
+his	le sien
+history	histoire
+history	historique
+hitchhike	faire
+hither	ici
+hitherto	jusqu'ici
+hobbit	hobbit
+hobby	passe-temps
+hockey	hockey
+hoe	houe
+holiday	conge
+holly	houx
+holmium	holmium
+home	foyer
+home	patrie
+homeland	patrie
+homeopathy	homeopathie
+homeostasis	homeostasie
+homework	devoir
+homogeneous	homogene
+homosexual	homosexuel
+homosexuality	homosexualite
+honest	honnete
+honesty	honnetete
+honey	miel
+honey	cheri
+honey bee	abeille a miel
+honeybee	abeille a miel
+honor	honneur
+honour	honneur
+hoof	sabot
+hook	crochet
+hook	attraper
+hooray	hourra
+hope	esperer
+hope	espoir
+horizon	horizon
+horn	corne
+horn	klaxon
+horn	cor
+hornet	frelon
+horse	cheval
+horseradish	raifort
+horseshoe	fer a cheval
+hospital	hopital
+hostility	hostilite
+hot	(tres
+hot	epice
+hotel	hotel
+hound	chien de chasse
+hour	heure
+hourglass	sablier
+house	maison
+house arrest	residence surveillee
+house music	house music
+housewife	maitresse de maison
+how	comment
+how are you	Comment allez-vous
+how much	combien
+how much is it	combien ca coûte
+however	cependant
+hug	etreindre
+hug	etreinte
+huge	enorme
+human	humain
+human being	etre humain
+human rights	droits de l'homme
+humility	humilite
+hummingbird	colibri
+humor	humour
+humour	humour
+hump	bosse
+hundred	cent
+hunger	faim
+hunt	chasse
+hunt	chasser
+hunter	chasseur
+hurricane	ouragan
+hurry	(se) hater
+hurt	faire mal
+husband	mari
+hussar	hussard
+hut	cabane
+hydrochloric acid	acide chlorhydrique
+hydrogen	hydrogene
+hyena	hyene
+hymen	hymen
+hymn	hymne
+hyperbola	hyperbole
+hypertension	hypertension
+hyphen	trait d'union
+hypocrisy	hypocrisie
+hyponym	hyponyme
+hypotenuse	hypotenuse
+i.e.	c.-a-d.
+ibex	bouquetin
+ice	glace
+ice	creme-glacee
+ice cream	glace
+ice hockey	hockey sur glace
+iceberg	iceberg
+ichthyology	ichthyologie
+icicle	glacon
+iconostasis	iconostase
+idea	idee
+ideal	ideal
+ideal gas	gaz parfait
+identity	identite
+idiom	idiotisme
+idiot	idiot
+idle	oisif
+if	si
+if only	si seulement
+illness	maladie
+ilmenite	ilmenite
+image	image
+imaginary number	nombre imaginaire pur
+immediate	immediat
+immediately	immediatement
+immortal	immortel
+immortality	immortalite
+imperative	imperatif
+imperialism	imperialisme
+important	important
+impossible	impossible
+imprison	emprisonner
+improve	ameliorer
+in	dans
+in person	en personne
+in spite of	malgre
+in the flesh	en personne
+in vain	en vain
+incarcerate	incarcerer
+inch	pouce
+include	inclure
+income	revenu
+income tax	impot sur le revenu
+indeed	en effet
+indefinite article	article indefini
+independence	independance
+independent	independant
+index	index
+indium	indium
+inexpensive	peu coûteux
+infarct	infarctus
+infertility	infertilite
+infidel	infidele
+inflation	inflation
+inflection	inflexion
+influenza	grippe
+information	renseignement
+ingot	lingot
+inherit	heriter
+injury	blessure
+ink	encre
+inn	auberge
+innovation	innovation
+insanity	folie
+insect	insecte
+inside out	a l'envers
+inside out	a fond
+insignificant	insignifiant
+instrument	instrument
+instrumental	instrumental
+instrumental case	instrumental
+insurgent	insurge
+integer	entier
+intelligence	intelligence
+intelligence	renseignements
+interest	interet
+interesting	interessant
+interferon	interferon
+interjection	interjection
+internal combustion engine	moteur a combustion interne
+international	international
+interpreter	interprete
+intersection	intersection
+intestine	intestin
+intransitive verb	verbe intransitif
+invention	invention
+invisible	invisible
+invoice	facture
+iodine	iode
+iridium	iridium
+iris	iris
+iron	fer
+iron	fer a repasser
+iron	repasser
+iron	de fer
+is	est
+island	ile
+it	ce
+it	le
+it's all Greek to me	c'est de l'hebreu pour moi
+itself	soi-meme
+ivory	ivoire
+ivy	lierre
+jack	valet
+jack	cric
+jackdaw	choucas
+jam	confiture
+jar	jarre
+jargon	zircon
+jasmine	jasmin
+jaundice	jaunisse
+jay	geai
+jazz	jazz
+jeans	jean
+jelly	confiture
+jelly	gelee
+jellyfish	meduse
+jerk off	se branler
+jetty	jetee
+jihad	jihad
+job	travail
+joint	articulation
+joke	plaisanterie
+joke	plaisanter
+joule	joule
+journalism	journalisme
+journey	voyage
+journey	voyager
+joy	joie
+joystick	manche
+judge	juge
+judge	arbitre
+judge	juger
+judo	jiu-jitsu
+juice	jus
+jungle	jungle
+juniper	genevrier
+junk food	malbouffe
+just	juste
+just	venir de
+kangaroo	kangourou
+kestrel	faucon crecerelle
+kestrel	faucon
+key	clef
+key	touche
+keyboard	clavier
+keyboard	clavier electronique
+khagan	khagan
+kick	donner
+kick	coup de pied
+kick the bucket	crever
+kidney	rein
+kill	tuer
+kill two birds with one stone	faire d'une pierre deux coups
+killer whale	epaulard
+kilogram	kilogramme
+kilometer	kilometre
+kilometre	kilometre
+kind	gentil
+kindergarten	maternelle
+king	roi
+kingdom	royaume
+kingdom	regne
+kingfisher	martin-pecheur
+kinship	parente
+kiss	embrasser
+kiss	baiser
+kiss	s'embrasser
+kitchen	cuisine
+kite	cerf-volant
+kite	milan
+kitten	chaton
+kiwi fruit	kiwi
+knee	genou
+kneecap	rotule
+kneel	s'agenouiller
+knife	couteau
+knight	chevalier
+knight	cavalier
+knock	frapper
+know	savoir
+know	connaitre
+knowledge	connaissance
+knuckle	articulation du doigt
+koala	koala
+krypton	krypton
+kryptonite	kryptonite
+label	etiquette
+labyrinth	labyrinthe
+lac	laque
+lace	dentelle
+lacrosse	la crosse
+ladder	echelle
+ladle	louche
+lady	dame
+ladybird	coccinelle
+ladybug	coccinelle
+lahar	lahar
+lake	lac
+lake	laque
+lama	lama
+lamb	agneau
+land	terre
+land	se poser
+language	langue
+language	langage
+lanthanum	lanthane
+laptop	(ordinateur
+larch	meleze
+large	grand
+lark	alouette
+larva	larve
+larynx	larynx
+laser	laser
+last	dernier
+last night	hier soir
+last year	l'annee
+late	tard
+lathe	tour
+lather	mousse de savon
+lather	savoner
+lattice	treillage
+laugh	rire
+laughter	rire
+laurel	laurier
+lavender	lavande
+law	loi
+law	droit
+lawrencium	lawrencium
+lawyer	avocat
+lawyer's wig	coprin chevelu
+lay	coucher
+layer	couche
+lazy	paresseux
+lead	plomb
+lead	mener
+lead/experiment	plomb
+lead/experiment2	plomb
+leader	chef
+leaf	feuille
+leap	sauter
+leap	saut
+leap year	annee bissextile
+leash	laisse
+least weasel	belette
+leather	cuir
+leave	partir
+leave	laisser
+leave	quitter
+leech	sangsue
+leek	poireau
+left	gauche
+leg	jambe
+legible	lisible
+lemon	citron
+lemon	citronnier
+lemon balm	citronelle
+lemonade	citronnade
+lemur	lemur
+lend	preter
+length	longueur
+lens	lentille
+leopard	leopard
+lesbian	lesbienne
+lesser spotted woodpecker	pic epeichette
+lesson	lecon
+let's go	allons
+let's go	allez
+letter	lettre
+lettuce	laitue
+leukemia	leucemie
+levitation	levitation
+lexeme	lexeme
+lexicography	lexicographie
+liar	menteur
+liberty	liberte
+library	bibliotheque
+lichen	lichen
+lick	lecher
+lid	couvercle
+lie	mentir
+lie	se coucher
+lie	mensonge
+lieutenant	lieutenant
+life	vie
+lift	ascenseur
+light	lumiere
+light	allumer
+light	leger
+light bulb	ampoule
+light year	annee-lumiere
+lighter	briquet
+lighthouse	phare
+lightning	eclair
+like	comme
+like	aimer
+like father, like son	tel pere, tel fils
+lily	lys
+lily of the valley	muguet
+lime	Chaux
+lime	tilleul
+lime	lime
+limestone	calcaire
+limit	limite
+line	droite
+linear algebra	algebre lineaire
+linen	toile
+linguist	linguiste
+linguistics	linguistique
+link	maillon
+link	lien
+lion	lion
+lioness	lionne
+lip	levre
+lipstick	rouge a levres
+liqueur	liqueur
+liquid	liquide
+listen	ecouter
+listen	guetter
+literature	litterature
+lithium	lithium
+litre	litre
+little	peu de
+little	petit
+little finger	petit doigt
+little owl	cheveche
+liturgy	liturgie
+live	vivre
+live	habiter
+live	vivant
+liver	foie
+liverwort	hepatique
+livestock	betail
+living room	sejour
+lizard	lezard
+llama	lama
+loan	emprunt
+lobster	homard
+locative case	locatif
+lock	serrure
+locust	locuste
+loess	less
+log	tronc
+logarithm	logarithme
+logic	logique
+loin	echine
+lol	lol, mdr
+long	long
+long	aspirer
+long-eared owl	hibou moyen duc
+lord	seigneur
+lose	perdre
+lotus	lotus
+louse	pou
+louse	salaud
+love	amour
+love	aimer
+love	faire l'amour
+love triangle	triangle amoureux
+lover	amoureux
+low	bas
+luck	chance
+luckily	heureusement
+lucky	chanceux
+lukewarm	tiede
+lullaby	berceuse
+lumpsucker	grosse poule de mer
+lunch	dejeuner
+lung	poumon
+lutetium	lutecium
+lynx	lynx
+lyre	lyre
+mace	masse
+machete	machette
+machine	machine
+machine gun	mitrailleuse
+machine translation	traduction automatique
+mackerel	maquereau
+macroeconomics	Macroeconomie
+mad	fou
+magazine	magazine
+magazine	magasin
+magazine	arsenal
+magenta	magenta
+magic wand	baguette magique
+magnesium	magnesium
+magnet	aimant
+magnetic	magnetique
+magnetism	magnetisme
+magpie	pie
+maid	demoiselle
+maid	bonne
+main	principal
+maize	mais
+majority	majorite
+make a mountain out of a molehill	faire une montagne d'une taupiniere
+make love	faire l'amour
+malaria	paludisme
+male	male
+mallard	canard colvert
+mammal	mammifere
+mammoth	mammouth
+man	homme
+man	pion
+management	administration
+mandarin	mandarin
+mandarin orange	mandarine
+mandarin orange	mandarinier
+mandatory	obligatoire
+manganese	manganese
+mango	mangue
+mango	maguier
+manual	manuel
+manure	fumier
+many	beaucoup
+many thanks	merci beaucoup
+map	carte
+maple	erable
+marble	marbre
+march	marche
+march	marcher
+march	defile
+mare	jument
+margrave	margrave
+mark	marque
+mark	mark
+marmot	marmotte
+maroon	marron pourpre
+marrow	moelle
+marry	se marier
+marsh	marais
+marsupial	marsupial
+marten	marte
+martyr	martyr
+mast	mat
+mastiff	dogue
+match	allumette
+match	match
+maternal death	la mort obstetrique
+maternal grandmother	grande-mere maternelle
+mathematician	mathematicien
+mathematics	mathematiques
+matrix	matrice
+matter	matiere
+matter	importer
+mattress	matelas
+mature	mûr
+may	pouvoir
+may	peut-etre
+maybe	peut-etre
+mayor	maire
+me	me
+me too	moi
+mead	hydromel
+meadow	pre
+meal	repas
+mean	signifier
+mean	moyen
+mean	moyenne
+mean	avoir l'intention
+mean	vouloir dire
+mechanic	mecanicien
+mechanics	Mecanique
+medal	medaille
+medicine	medicament
+medicine	medecine
+mediocre	mediocre
+meditation	meditation
+meet	rencontrer
+meet	converger
+meet	avoir rendez-vous
+meitnerium	meitnerium
+melancholy	melancolique
+melancholy	melancolie
+melanoma	melanome
+melody	melodie
+melon	melon
+melt	fondre
+member	membre
+memory	memoire
+memory	souvenir
+mendelevium	mendelevium
+menstruation	menstruation
+menu	carte
+meow	miaou
+meow	miauler
+mercury	mercure
+mermaid	sirene
+message	message
+messenger	messager
+metal	metal
+metallurgy	metallurgie
+metaphor	metaphore
+metastasis	metastase
+meter	metre
+method	methode
+metre	metre
+metro	metro
+metrosexual	metrosexuel
+micro-	micro- (1,2)
+microwave oven	micro onde
+midbrain	mesencephale
+middle finger	majeur
+midnight	minuit
+midwife	sage-femme
+mild	doux
+mile	mile
+milk	lait
+milk	traire
+milkmaid	laitiere
+mill	moulin
+millennium	millenaire
+millet	millet
+milliard	milliard
+millimetre	millimetre
+million	million
+millionaire	millionnaire
+millisecond	milliseconde
+minaret	minaret
+mine	mine
+mine	le fr
+miner	mineur
+mineralogy	mineralogie
+minion	subalterne
+minister	ministre
+mink	vison
+mint	menthe
+minuet	menuet
+minus	moins
+minute	minute
+minute	proces-verbal
+minute	minuscule
+mirage	mirage
+misfortune	malchance
+misnomer	terme mal approprie
+miss	manquer
+miss	mademoiselle
+missile	projectile
+mission	mission
+mist	brouillard
+mistake	faute
+mistake	se tromper
+mister	monsieur
+mistletoe	gui
+misunderstand	mal interpreter
+mitochondrion	mitochondrie
+mix	melanger
+mobile	mobile
+mobile phone	telephone mobile
+model	modele
+modern	moderne
+moist	humide
+moisture	humidite
+molar	molaire
+molasses	melasse
+mole	taupe
+mole	grain de beaute
+molecule	molecule
+mollusc	mollusque
+molybdenum	molybdene
+moment	instant
+monarchy	monarchie
+monastery	monastere
+money	argent
+mongoose	mangouste
+monitor	ecran
+monkey	singe
+monopoly	monopole
+monotheism	monotheisme
+monsoon	mousson
+monster	monstre
+month	mois
+monthly	mensuel
+mood	humeur
+mood	mode
+moon	lune
+moose	elan
+morality	moralite
+moreover	de plus
+morning	matin
+morpheme	morpheme
+mortal	mortel
+mortality	condition mortelle
+mortar	mortier
+mortgage	hypotheque
+mosque	mosquee
+mosquito	moustique
+moss	mousse
+most	la plupart
+moth	mite
+mother	mere
+mother tongue	langue maternelle
+mother-in-law	belle-mere
+motherfucker	fils de pute
+motion	mouvement
+motivate	motiver
+motive	motif
+motor	moteur
+motorcycle	moto
+mouflon	mouflon
+mould	moisi
+mountain	montagne
+mourn	deplorer
+mouse	souris
+moustache	moustache
+mouth	bouche
+mouth	embouchure
+move	bouger
+move	se mouvoir
+move	demenager
+movie	cinema
+mow	couper
+much	beaucoup de
+much	beaucoup
+mud	boue
+mug	mug
+mugwort	armoise
+mulberry	mûre
+mulberry	mûrier
+mule	mule
+multilingualism	multilinguisme
+multiplication	multiplication
+multiply	multiplier
+multiverse	multivers
+mum	maman
+mummy	momie
+mummy	maman
+mumps	oreillons
+murder	meurtre
+murderer	meurtrier
+muscle	muscle
+muse	Muse
+museum	musee
+mushroom	champignon
+music	musique
+musician	musicien
+muskrat	rat musque
+mussel	moule
+must	devoir
+mustache	moustache
+mustard	moutarde
+mutual	mutuel
+my	mon
+my name is	je m'appelle
+myrrh	myrrhe
+myself	moi-meme
+mysterious	mysterieux
+mystery	mystere
+myth	mythe
+mythology	mythologie
+nail	clou
+nail	ongle
+nail	clouer
+naked	nu
+name	nom
+name	nommer
+name	choisir
+name	preciser
+name	identifier
+name day	fete
+nape	cou
+napkin	serviette
+narrative	recit
+narrow	etroit
+narwhal	narval
+nation	nation
+national	national
+nationalism	nationalisme
+nationality	nationalite
+native	natif
+natural	naturel
+natural gas	gaz naturel
+natural language	langue naturelle
+nature	nature
+naughty	mechant
+nausea	nausee
+navel	ombilic
+navy	force navale
+near	pres
+nearly	presque
+neat	net
+nebula	nebuleuse
+necessary	necessaire
+neck	cou
+neck	goulot
+necklace	collier
+necktie	cravate
+necrophilia	necrophilie
+need	besoin
+need	avoir besoin de
+needle	aiguille
+negative	negatif
+neglect	negligence
+negotiation	negociation
+neighborhood	voisinage
+neighbour	voisin
+neighbourhood	voisinage
+neodymium	neodyme
+neon	neon
+nephew	neveu
+nephew	neveu fraternel
+nephew	neveu sororel
+neptunium	neptunium
+nervous	nerveux
+nest	nid
+net	filet
+net	reseau
+nettle	ortie
+neutral	neutre
+neutrino	neutrino
+neutron	neutron
+never	jamais
+nevertheless	neanmoins
+new	nouveau
+news	telejournal
+news	nouvelles
+newspaper	journal
+newspaper	papier journal
+next	prochain
+next	proche
+next	a cote
+nice	(''person'') gentil
+nickel	nickel
+nickname	surnom
+niece	niece fraternelle
+niece	niece
+niece	niece sororelle
+nigger	bougnoule
+night	nuit
+night	soiree
+nightfall	tombee de la nuit
+nightingale	rossignol philomele
+nightmare	cauchemar
+nine	neuf
+nineteen	dix-neuf
+ninja	ninja
+ninth	neuvieme
+niobium	niobium
+nipple	mamelon
+nit	lente
+nitrogen	azote
+no	non
+no	defense de
+no	pas
+no one	personne
+no smoking	defense de fumer
+no.	nº
+nobelium	nobelium
+nobody	personne
+nocturnal	nocturne
+noise	bruit
+nominative	nominatif
+nominative case	nominatif
+none	personne
+none	aucun
+nonsense	sottise
+noodle	nouille
+noon	midi
+normal	normal
+north	nord
+northeast	nord-est
+northwest	nord-ouest
+nose	nez
+nostril	narine
+not	ne
+note	note
+nothing	ne
+notify	notifier
+noun	nom
+novel	roman
+novelist	romancier
+novelty	nouveaute
+now	maintenant
+nowadays	de nos jours
+nowhere	nulle part
+nude	nu
+nudity	nudite
+numb	engourdi
+number	nombre
+number	numero
+number	numeroter
+numeral	chiffre
+numerous	nombreux
+nun	nonne
+nurse	infirmiere
+nurse	nourrice
+nut	''no generic translation exists''; noix
+nut	ecrou
+nut	fou
+nut	couille
+nutritional	alimentaire
+o'clock	une heure
+oak	chene
+oar	rame
+oasis	oase
+oat	avoine
+oath	serment
+obedience	obeissance
+obese	obese
+object	objet
+object	s'opposer
+objection	objection
+objective	objectif
+oblivion	oubli
+oboe	hautbois
+obscure	obscur
+observatory	observatoire
+observe	observer
+obsession	obsession
+obstacle	obstacle
+obtain	obtenir
+obvious	evident
+occasional	occasionale
+occasionally	occasionnellement
+occupation	occupation
+occurrence	evenement
+ocean	ocean
+octagon	octogone
+octopus	pieuvre
+odd	bizarre
+odd	impair
+odour	odeur
+oesophagus	esophage
+of	de
+of course	bien sûr
+offer	offrir
+office	bureau
+officer	officier
+often	souvent
+oh my God	mon Dieu
+ohm	ohm
+oil	huile
+old	vieux
+old	ancien
+old	''translated by avoir
+olive	olive
+olive tree	olivier
+omelette	omelette
+omission	omission
+on	sur
+on	allume
+on	de
+once	une
+once	aussitot que
+once upon a time	il etait une fois
+one	un
+one	on
+one	''expressed by nominalization
+oneself	soi-meme
+onion	oignon
+only	seulement
+onomatopoeia	onomatopee
+onward	en avant
+onyx	onyx
+open	ouvrir
+open	ouvert
+operate	operer
+operating system	systeme d'exploitation
+operation	operation
+opinion	avis
+opossum	sarigue
+opportunity	occasion
+opposite	oppose
+oppress	opprimer
+or	ou
+or	or
+oral	oral
+orange	orange
+orange	oranger
+orbit	orbite
+orca	epaulard
+orchestra	orchestre
+orchid	orchidee
+order	ordre
+order	commander
+order	commande
+ordered pair	couple
+ordinary	ordinaire
+ore	minerai
+organ	orgue
+organ	organe
+organism	organisme
+organization	organisation
+orgasm	orgasme
+origin	origine
+original	original
+ornament	ornement
+orphan	orphelin
+osmium	osmium
+osprey	aigle pecheur
+ostensible	apparent
+ostrich	autruche
+other	autre
+otter	loutre
+ouch	aie
+ounce	once
+our	notre
+ourselves	nous-memes
+out	hors
+oven	four
+over	sur
+over	fini
+overcome	vaincre
+overmorrow	apres-demain
+owe	devoir
+owl	hibou
+own	propre
+own	posseder
+own	vaincre
+ox	beuf
+oxygen	oxygene
+oxymoron	oxymore
+oyster	huitre
+package	paquet
+padlock	cadenas
+page	page
+pain	douleur
+paint	peinture
+paint	peindre
+painter	peintre
+pair	paire
+pair of compasses	compas
+pajamas	pyjama
+palace	palais
+palaeolithic	Paleolithique
+palate	palais
+pale	pale
+palimpsest	palimpseste
+palindrome	palindrome
+palladium	palladium
+palm	palmier
+palm	paume
+pancake	crepe
+pancreas	pancreas
+panda	ours panda
+pandeism	pandeisme
+panentheism	panentheisme
+pantheism	pantheisme
+pants	pantalon
+pants	calecon
+paper	papier
+paper	en papier
+parabola	parabole
+parachute	parachute
+parade	parade
+paradise	paradis
+paradox	paradoxe
+paragliding	parapente
+parallel	parallele
+paralysis	paralysie
+pardon me	excusez-moi
+parents	parents
+park	parc
+park	garer
+parliament	parlement
+parrot	perroquet
+parrot	repeter
+parsley	persil
+part	partie
+part	role
+part of speech	partie du discours
+partake	participer
+participant	participant
+participate	participer
+participle	participe
+partridge	perdrix
+party	parti
+party	fete
+pasha	pacha
+passenger	passager
+passport	passeport
+past	passe
+past participle	participe passe
+past tense	passe
+pasta	pates
+path	sentier
+patient	patient
+pause	pause
+pavement	trottoir
+pavement	chaussee
+paw	patte
+pawn	pion
+pay	payer
+payment	paiement
+pea	pois
+peace	paix
+peach	peche
+peach	pecher
+peacock	paon
+peak	cime
+peanut	arachide
+pear	poire
+pear	poirier
+peat	tourbe
+pebble	caillou
+pederast	pederaste
+pederasty	pederastie
+pedestrian	pieton
+peel	pelure
+pejorative	pejoratif
+pelican	pelican
+pen	plume
+penalty	peine
+pencil	crayon
+penetrate	penetrer
+penguin	manchot
+peninsula	peninsule
+penis	penis
+penny	penny
+pentagon	pentagone
+penultimate	avant-dernier
+people	gens
+people	peuple
+pepper	poivre
+pepper	(''spicy'') piment
+percent	pour cent
+perch	perche
+peregrine falcon	faucon pelerin
+perestroika	perestroika
+perfect	parfait
+perfume	parfum
+perfume	parfumer
+perhaps	peut-etre
+perineum	perinee
+period	point
+period	periode
+periodic table	tableau periodique
+permission	permission
+perpendicular	perpendiculaire
+perseverance	perseverance
+persist	persister
+person	personne
+personal	personnel
+personal pronoun	pronom personnel
+personality	personnalite
+perspiration	transpiration
+persuade	persuader
+petrol	essence
+petroleum	petrole
+pharaoh	pharaon
+pharmacy	pharmacie
+pharynx	pharynx
+pheasant	faisan
+philosopher	philosophe
+philosopher's stone	pierre philosophale
+philosophy	philosophie
+phobia	phobie
+phoenix	phenix
+phone	telephone
+phone	telephoner
+phoneme	phoneme
+phosphorus	phosphore
+photograph	photographie
+photograph	photographier
+photon	photon
+photosynthesis	photosynthese
+phrase	locution
+phrase	expression
+physical	physique
+physician	medecin
+physics	:fr:physique
+physiology	physiologie
+pi	pi
+pianist	pianiste
+piano	piano
+picture	photo
+picture	image
+picture	cinema
+pie	tarte
+piece	morceau
+pier	jetee
+pig	cochon
+pigeon	pigeon
+piglet	cochonnet
+pigment	pigment
+pigsty	porcherie
+pike	brochet
+pile	monceau
+pill	pilule
+pillar	pilier
+pillow	oreiller
+pilot	pilote
+pimp	souteneur
+pimple	bouton
+pin	epingle
+pine	pin
+pineal gland	glande pineale
+pineapple	ananas
+ping pong	ping-pong
+pink	rose
+pipe	pipe
+pipe	conduit
+piranha	piranha
+pirate	pirate
+piss	pisse
+piss	pisser
+pistol	pistolet
+pit	fosse
+pitch	poix
+pity	compassion
+pixel	pixel
+place	lieu
+place	mettre
+place	place
+plain	simple
+plaintiff	demandeur
+plan	projeter
+plan	plan
+plane	rabot
+plane	plan
+plane	avion
+planet	planete
+plant	plante
+plant	planter
+plant	fabrique
+plastic	plastique
+plate	assiette
+platform	plate-forme
+platform	quai
+platinum	platine
+platypus	ornithorynque
+play	jouer
+play	jeu
+play	piece
+playing card	carte a jouer
+pleasant	agreable
+please	s'il vous plait
+please	plaire
+pleasure	plaisir
+pledge	gage
+plenty	abondance
+pliers	pinces
+plough	charrue
+plough	labourer
+plow	charrue
+plow	labourer
+plum	prune
+plum	prunier
+plumber	plombier
+plural	pluriel
+plus	plus
+plutonium	plutonium
+pocket	poche
+poem	poeme
+poetry	poesie
+point	point
+poison	poison
+poison	empoisonner
+poisonous	poisoneux
+polar bear	ours blanc
+pole	perche
+pole	pole
+polecat	putois
+police	police
+police officer	policier
+police station	commissariat
+policeman	gendarme
+policy	politique
+polish	polir
+polish	vernis
+polite	poli
+politician	politicien
+politics	politique
+pollen	pollen
+pollution	pollution
+polonium	polonium
+polyamory	polyamour
+polygon	polygone
+polysynthetic	polysynthetique
+polytheism	polytheisme
+pomegranate	grenade
+pomegranate	grenadier
+pond	etang
+poor	pauvre
+poor	pitoyable
+poor	pietre
+popcorn	popcorn
+pope	pape
+poplar	peuplier
+poppy	pavot
+popular	populaire
+population	population
+porcelain	porcelaine
+porcupine	porc-epic
+pork	porc
+pornography	pornographie
+porpoise	marsouin
+port	port
+portion	part
+portmanteau	portemanteau
+position	position
+positive	positif
+possess	posseder
+possessive	possessif
+possessive case	possessif
+possessive pronoun	pronom possessif
+possibility	possibilite
+possible	possible
+post office	poste
+postage stamp	timbre
+postcard	carte postale
+postpone	ajourner
+pot	pot
+potable	potable
+potassium	potassium
+potato	pomme de terre
+potter	potier
+pouch	poche
+pound	livre
+pour	verser
+poverty	pauvrete
+powder	poudre
+power	puissance
+power	electricite
+power set	ensemble des parties
+practice	pratique
+pragmatic	pragmatique
+prairie dog	chien de prairie
+praise	louer
+prank	farce
+pray	prier
+precious	precieux
+precise	precis
+predicate	predicat
+predict	predire
+prefer	preferer
+prefix	prefixe
+pregnancy	grossesse
+pregnant	enceinte
+prepare	preparer
+preposition	preposition
+prepuce	prepuce
+prescription	ordonnance
+presence	presence
+present	presenter
+present	cadeau
+present	present
+president	president
+press	presser
+pressure	pression
+pretend	feindre
+pretty	joli
+prevent	empecher
+previous	prealable
+price	prix
+pride	fierte
+priest	pretre
+primary	principal
+prime	premier
+prime minister	premier ministre
+prime number	nombre premier
+primitive	primitif
+princess	princesse
+principal	principal
+principle	principe
+print	imprimer
+printer	imprimante
+prison	prison
+prisoner of war	prisonnier de guerre
+privacy	intimite
+private	prive
+privilege	privilege
+prize	prix
+proactive	proactif
+probably	probablement
+problem	probleme
+procedure	procedure
+process	recette
+produce	produire
+product	produit
+profession	profession
+professor	professeur
+programming language	langage de programmation
+progress	progres
+prohibit	interdire
+project	projet
+promethium	promethium
+prominent	proeminent
+promise	veu
+promise	promettre
+promote	promouvoir
+pronoun	pronom
+pronounce	prononcer
+pronunciation	prononciation
+proof	preuve
+propaganda	propagande
+proper	convenable
+proper noun	nom propre
+property	propriete
+propose	proposer
+prose	prose
+prosthesis	prothese
+prostitute	prostitue
+protect	proteger
+protection	protection
+protest	protester
+proton	proton
+prototype	prototype
+proud	fier
+prove	prouver
+proverb	proverbe
+provide	pourvoir
+province	province
+pseudonym	nom de guerre
+psychiatrist	psychiatriste
+psychologist	psychologue
+psychology	psychologie
+psychopolitics	psychopolitique
+pub	bar
+public	public
+publish	publier
+puck	palet
+pull	tirer
+pulse	pouls
+pump	pompe
+pumpkin	citrouille
+pun	calembour
+punish	punir
+pupil	eleve
+puppet	marionnette
+puppy	chiot
+pure	pur
+purple	violet
+purpose	but
+purpure	pourpre
+purse	bourse
+pursue	poursuivre
+push	pousser
+pussy	chatte
+pussy	chaton
+pussy	purulent
+puzzle	mystere
+pyjamas	pyjama
+pylon	pylone
+pyramid	pyramide
+python	python
+quackery	charlatanisme
+quadrilateral	quadrilatere
+quail	caille
+quality	qualite
+quantization	quantisation
+quark	quark
+quarter	quart
+quarter	trimestre
+quartz	quartz
+quay	quai
+queen	reine
+queen	dame
+queer	gay
+question	question
+question mark	point d'interrogation
+quick	rapide
+quickly	rapidement
+quicksand	sables mouvants
+quidditch	Quidditch
+quiet	calme
+quiet	tranquille
+quiet	silencieux
+quiet	s'apaiser
+quit	abandonner
+quit	quitter
+quiver	carquois
+quotation	citation
+quotation mark	guillemet
+rabbi	rabbin
+rabbit	lapin
+rabies	rage
+raccoon	raton laveur
+race	course
+racism	racisme
+radiation	radiation
+radio	'''radio'''
+radium	radium
+radius	rayon
+radon	radon
+rage	rage
+railroad	chemin de fer
+rain	pluie
+rain	pleuvoir
+rain cats and dogs	pleuvoir des cordes
+rainbow	arc-en-ciel
+rainbow trout	truite arc-en-ciel
+raise	elever
+raisin	raisin sec
+rake	rateau
+rake	ratisser
+ram	belier
+rape	viol
+rape	violer
+rapid	rapide
+rare	rare
+raspberry	framboise
+raspberry	framboisier
+rat	rat
+rattlesnake	crotale
+raven	corbeau
+ravine	ravin
+raw	cru
+raw material	matiere
+ray	rayon
+ray	raie
+razor	rasoir
+reaction	reaction
+read	lire
+ready	pret
+real	reel
+real	vrai
+realism	realisme
+reality	realite
+realize	se rendre compte
+realize	realiser
+really	vraiment
+realm	royaume
+reason	raison
+reason	cause
+rebel	rebeller
+rebel	rebelle
+rebellion	rebellion
+receipt	for money or for hand-given thing: recu
+receive	recevoir
+recent	recent
+reception	accueil
+recipe	recette
+recognize	reconnaitre
+recommend	recommander
+record	record
+record	enregistrer
+recreation	recreation
+rectangle	rectangle
+red	rouge
+red	roux
+red deer	cerf commun
+redhead	(1): roux
+redshift	decalage vers le rouge
+reed	roseau
+refer	referer
+referee	arbitre
+reflect	reflechir
+refresh	rafraichir
+refrigerator	refrigerateur
+refugee	refugie
+refuse	refuser
+regime change	changement de regime
+region	region
+register	enregistrer
+regret	regretter
+regret	regret
+regular	regulier
+regulate	regler
+regulation	reglement
+rein	rene
+reindeer	renne
+reinforce	renforcer
+reject	rejeter
+relation	relation
+relationship	rapport
+relative	parent
+relative	relatif
+relativity	relativite
+release	lacher
+relief	soulagement
+religion	religion
+rely	compter sur
+remain	demeurer
+remark	remarque
+remember	se rappeler
+remember	retenir
+remind	rappeler
+remote	distant
+remove	enlever
+rent	louer
+repair	reparation
+repair	reparer
+repeat	repeter
+replace	remplacer
+report	rapport
+report	rapporter
+represent	representer
+representative	representant
+reptile	reptile
+republic	republique
+reputation	reputation
+request	requete
+requirement	exigence
+rescue	secourir
+resemble	ressembler
+reserve	reservation
+reserve	reserver
+residence	residence
+resign	demissionner
+resistance	resistance
+resistor	resistance
+resolve	resoudre
+resource	ressource
+respect	respect
+responsibility	responsabilite
+rest	se reposer
+rest	reste
+restrict	restreindre
+result	resultat
+retreat	se
+reveal	reveler
+revenge	vengeance
+revolution	revolution
+reward	recompense
+rhinoceros	rhinoceros
+rhodium	rhodium
+rhombus	losange
+ribbon	ruban
+rice	riz
+rich	riche
+ride	rouler
+ride	monter
+rider	cavalier
+ridiculous	ridicule
+rifle	fusil
+right	droit
+right	correct
+right	droite
+right	corriger
+right triangle	triangle rectangle
+rigid	rigide
+ring	anneau
+ring	sonner
+ring finger	annulaire
+ring tone	sonnerie
+ripe	mûr
+ritual	rituel
+river	riviere
+road	route
+rob	voler
+robin	rouge-gorge
+rock	roche
+rock	rocher
+rock	rock
+rock	remuer
+rock dove	pigeon biset
+rocket	fusee
+rodent	rongeur
+roe	eufs de poisson
+roe deer	chevreuil
+roentgenium	roentgenium
+roll	faire
+roll	rouler
+roof	toit
+rook	tour
+rook	corbeau freux
+room	piece
+room	espace
+rooster	coq
+root	racine
+rope	corde
+rose	rose
+rose	rosier
+rosemary	romarin
+rot	pourrir
+rough	rude
+round	rond
+row	ligne
+row	ramer
+royal	royal
+rub	frotter
+rubidium	rubidium
+ruble	rouble
+rude	impoli
+rue	rue odorante
+ruin	ruine
+rule	regle
+ruler	regle
+rum	rhum
+ruminant	ruminant
+run	courir
+run/experiment	courir
+rust	rouille
+rutabaga	rutabaga
+ruthenium	ruthenium
+rutile	rutile
+rye	seigle
+rontgen	rontgen
+sable	sable
+sable	zibeline
+sack	sac
+sacrifice	sacrifice
+sacrifice	sacrifier
+sad	triste
+saddle	selle
+safe	coffre-fort
+safety	sûrete
+saffron	safran
+sail	naviger a voile
+sail	voler
+sailing	navigation
+sailor	matelot
+salad	salade
+salary	salaire
+sale	vente
+sale	soldes
+salesman	vendeur
+salesperson	vendeur
+saliva	salive
+salmon	saumon
+salt	sel
+salt	saler
+salty	sale
+same	meme
+sample	echantillon
+samurai	samourai
+sand	sable
+sand	plage
+sandalwood	santal
+sandpaper	papier de verre
+sandwich	sandwich
+sapphire	saphir
+sarcasm	sarcasme
+sarcophagus	sarcophage
+satisfaction	satisfaction
+sauce	sauce
+sausage	saucisse
+sausage	saucisson
+save	sauver
+save	epargner
+save	sauvegarder
+saw	scie
+saw	scier
+saxophone	saxophone
+saying	proverbe
+scabbard	fourreau
+scabies	gale
+scaffolding	echafaudage
+scale	balance
+scale	echelle
+scale	ecaille
+scales	balance
+scallop	coquille
+scandium	scandium
+scanner	module de balayage
+scapegoat	bouc emissaire
+scar	cicatrice
+scarce	rare
+scare	effrayer
+scarecrow	epouvantail
+scarf	echarpe
+scatter	disperser
+scene	scene
+scent	odeur
+schedule	planning
+scheme	systeme
+school	ecole
+school	college
+school	banc
+science	science
+scientist	scientifique
+scissors	ciseaux
+scold	gronder
+score	nombre
+scratch	gratter
+scream	crier
+screen	ecran
+screw	vis
+screwdriver	tournevis
+scrotum	scrotum
+sculpture	sculpture
+scythe	faux
+sea	mer
+sea horse	hippocampe
+sea lion	otarie
+sea urchin	herisson de mer
+seagull	mouette
+seal	phoque
+seal	sceau
+seaplane	hydravion
+search	chercher
+search engine	moteur de recherche
+season	saison
+season	epicer
+seaweed	algues
+second	seconde
+second	deuxieme
+second	article
+secret	secret
+secretary	secretaire
+sect	secte
+security	securite
+see	voir
+seed	semence
+seek	chercher
+seeker	attrapeur
+seem	sembler
+seismic	sismique
+seize	saisir
+seldom	rarement
+select	choisir
+selenium	selenium
+selfish	egoiste
+sell	vendre
+semelfactive	semelfactif
+semen	semence
+semiconductor	semiconducteur
+senate	senat
+send	envoyer
+sense	sens
+sentence	phrase
+sentence	jugement
+sentence	peine
+sentence	punir
+separate	separer
+separate	separe
+serenade	serenade
+sergeant	sergent
+serious	serieux
+serpent	serpent
+servant	domestique
+service	service
+service	entretien
+session	seance
+set	ensemble
+set	mettre
+set	jeu
+set	coucher
+set on fire	allumer
+set theory	theorie des ensembles
+seven	sept
+seven deadly sins	sept peches capitaux
+seven hundred and fifty	sept cent cinquante
+seventeen	dix-sept
+seventh	septieme
+seventy	(''France, Quebec, Luxembourg'') soixante-dix
+seventy-five	soixante-quinze
+seventy-one	soixante et onze
+several	plusieurs
+sew	coudre
+sewing machine	machine a coudre
+sex	sexe
+sex	rapport sexuel
+sexology	sexologie
+sexual	sexuel
+sexual harassment	harcelement sexuel
+sexual intercourse	rapports sexuels
+sexual orientation	orientation sexuelle
+sexy	sexy
+shade	ombre
+shadow	ombre
+shahada	chahada
+shallow	peu profond
+shame	honte
+shampoo	shampooing
+shape	forme
+share	part
+shark	requin
+sharp	affile
+shave	raser
+she	elle
+sheath	fourreau
+sheep	mouton
+sheepdog	chien de berger
+sheet	drap
+sheet	feuille
+shelf	rayon
+shepherd	berger
+shh	chut
+shield	bouclier
+shield	ecu
+shield	proteger
+shin	tibia
+shine	briller
+ship	vaisseau
+shirt	chemise
+shit	merde
+shit	defequer
+shit	des conneries
+shit	caguer
+shit	la courante
+shock	choc
+shoddy	effiloche
+shoe	chaussure
+shoe	fer
+shoe polish	cirage
+shoot	tirer
+shop	boutique
+shop	faire les magasins
+shore	bord
+shoulder	epaule
+shoulder	bande d'arret d'urgence
+shout	crier
+shovel	pelle
+show	montrer
+show	demontrer
+show	spectacle
+shower	averse
+shower	douche
+shower	doucher
+shrew	musaraigne
+shrimp	crevette
+shrine	sanctuaire
+shut	fermer
+shy	timide
+sibling	frere
+sick	malade
+sickle	faucille
+side	cote
+side	page
+sideburns	rouflaquettes
+siege	siege
+siege	assieger
+sieve	tamis
+sight	vue
+sight	mire
+sight	voir
+sign	signe
+significance	importance
+silence	silence :fr:silence
+silicon	silicium
+silk	soie
+silkworm	ver a soie
+silver	argent
+silver	argente
+silversmith	chaudronnier d'argent
+silverware	argenterie
+similar	similaire
+simple	simple
+simultaneous	simultane
+simultaneously	simultanement
+sin	peche
+sin	pecher
+since	depuis
+since	puisque
+sincere	sincere
+sine	sinus
+sing	chanter
+singer	chanteur
+singular	singulier
+sink	s'enfoncer
+sister	seur
+sister	infirmiere
+sister-in-law	belle-seur
+sisters	seur
+sit	etre
+sit down	s'asseoir
+six	six
+sixteen	seize
+sixth	sixieme
+sixty	soixante
+sixty-eight	soixante-huit
+sixty-nine	soixante-neuf
+skeleton	squelette
+ski	ski
+ski	skier
+skill	habilete
+skim	ricocher
+skim	feuilleter
+skin	peau
+skip	sautiller
+skirt	jupe
+skull	crane
+skunk	moufette
+sky	ciel
+skylark	alouette des champs
+skyscraper	gratte-ciel
+slander	calomnie
+slang	argot
+slay	tuer
+sleep	sommeil
+sleep	dormir
+sleeve	manche
+slender	svelte
+slide	glisser
+slight	insignifiant
+sloth	paresseux
+sloth	paresse
+slow	lent
+slowly	lentement
+slug	limace
+sly	ruse
+small	petit
+smell	sentir
+smell	odorat
+smile	sourire
+smoke	fumee
+smoke	fumer
+smoke	clope
+smooth	lisse
+snail	escargot
+snake	serpent
+snake	serpenter
+snare drum	caisse claire
+sneeze	eternuer
+sneeze	eternuement
+snob	snob
+snot	morve
+snow	neige
+snow	neiger
+snow leopard	leopard des neiges
+snowball	boule de neige
+snowflake	flocon
+snowman	bonhomme de neige
+snowstorm	tempete de neige
+so	aussi
+so	tellement
+soap	savon
+soccer	football
+society	societe
+sock	chaussette
+soda	boisson gazeuse
+sodium	sodium
+sofa	canape
+soft	mou
+soft drink	boisson gazeuse
+software	logiciel
+soil	sol
+solar system	systeme solaire
+soldier	soldat
+sole	La plante
+solid	solide
+solid	massif
+solitude	solitude
+solution	solution
+some	quelques
+somebody	quelqu'un
+someone	quelqu'un
+something	quelque chose
+sometimes	parfois
+somewhere	(1, 2): quelque part
+somnambulism	somnambulisme
+son of a bitch	fils de pute
+son of a whore	fils de pute
+son-in-law	beau-fils
+sonata form	structure sonate
+song	chanson
+sonnet	sonnet
+soon	bientot
+sorghum	sorgho
+sorrow	peine
+sorry	desole
+sort	type
+sort	trier
+sort	triage
+soul	ame
+soul	soul
+sound	sonner
+soup	potage
+sour	aigre
+source code	t+
+south	sud
+southeast	sud-est
+southern	meridional
+southwest	sud-ouest
+sovereign	souverain
+sow	semer
+space	espace
+spacecraft	vaisseau spatial
+spaceship	vaisseau spatial
+spade	beche
+spade	pique
+spades	pique
+spaghetti	spaghettis
+spark	etincelle
+spark plug	bougie d'allumage
+sparrow	moineau
+sparrow hawk	epervier
+speak	parler
+speaker	baffle
+speaker	parleur
+special	special
+speciality	specialite
+specialty	specialite
+species	espece
+specific	specifique
+spectacles	lunettes
+speech	discours
+speed	vitesse
+speed of light	vitesse de la lumiere
+speed of sound	vitesse du son
+spell	epeler
+spell	charme
+spend	passer
+sperm whale	cachalot
+sphere	sphere
+spider	araignee
+spinach	epinards
+spinal cord	moelle epiniere
+spine	colonne vertebrale
+spirit	elan
+spirit	esprit
+spiritual	spirituel
+spit	cracher
+spleen	rate
+splendid	splendide
+split	diviser
+split	fendre
+spoilt	gate
+sponge	eponge
+spoon	cuiller
+sport	sport
+spot	tache
+spouse	epoux
+spring	printemps
+spring	source
+spring	ressort
+spring	sauter
+spring	naitre
+spruce	epicea
+spy	espion
+spy	espionner
+square	carre
+square	place
+square root	racine carree
+squid	seiche
+squirrel	ecureuil
+stag-beetle	cerf
+stage	scene
+stainless steel	acier inoxydable
+stair	escalier
+stairs	escalier
+stake	pieu
+stalemate	pat
+stalk	tige
+stallion	etalon
+stand	etre debout
+stand	se lever
+stanza	strophe
+stapler	agrafeuse
+star	etoile
+starfish	etoile de mer
+starling	etourneau
+start	debut
+starvation	inanition
+state	etat
+statement	declaration
+station	gare
+statistics	statistiques
+stay	rester
+steak	bifteck
+steal	voler
+steam engine	machine a vapeur
+steel	acier
+steer	boeuf
+steering wheel	volant
+stem cell	cellule souche
+step	pas
+stepbrother	beau-frere
+stepdaughter	belle-fille
+stepfather	beau-pere
+stepmother	belle-mere
+stepson	beau-fils
+sterilize	steriliser
+stern	poupe
+stern	severe
+stevia	Stevia or Stevie
+stick	baton
+stick	canne
+stick	coller
+still	encore
+stillbirth	mortinaissance
+stillborn	mort-ne
+stink	puanteur
+stir up	faire de l'agitation
+stirrup	etrier
+stock	reserve
+stocking	bas
+stomach	estomac
+stomach	bedon
+stone	pierre
+stone	calcul
+stone	lapider
+stone	de
+stop	arreter
+stop	arret
+stork	cigogne
+story	histoire
+story	etage
+stove	fourneau
+stove	poele
+straight	droit
+strange	etrange
+straw	paille
+strawberry	fraise
+strawberry	fraisier
+stream	courant
+street	rue
+strength	force
+stress	tension
+stretch	etendre
+strife	differends
+strike	greve
+string	corde
+strive	s'efforcer
+strong	fort
+strong	solide
+strontium	strontium
+struggle	lutte
+stubborn	tetu
+student	etudiant
+study	etudier
+stuff	substance
+stupid	stupide
+sturgeon	esturgeon
+stutter	balbutier
+style	modele
+subject	sujet
+subject	matiere
+subjunctive	subjonctif
+subliminal message	message subliminal
+submarine	sous-marin
+subscribe	s'abonner
+subsequent	subsequent
+subset	partie
+substance	substance
+substantial	substantiel
+substitute	mettre en place de
+subtract	soustraire
+subtraction	soustraction
+subway	metro
+suck	sucer
+sucrose	saccharose
+sudden	soudain
+suddenly	soudainement
+suffer	subir
+sufficient	suffisant
+sugar	sucre
+sugar beet	betterave sucriere
+sugar cane	canne
+suggest	proposer
+suicide	suicide
+suicide	suicide
+suit	complet
+suitcase	valise
+sulfur	soufre
+sultan	sultan
+sum	somme
+summary	resume
+summer	ete
+sunflower	tournesol
+sunglasses	lunettes de soleil
+sunrise	lever du soleil
+sunset	coucher de soleil
+sunset	crepuscule
+super	super
+superfluous	superflu
+superior	superieur
+superlative	superlatif
+supernatural	surnaturel
+supper	souper
+suppose	supposer
+suppress	supprimer
+supreme	supreme
+sure	sûr
+surely	sûrement
+surface	surface
+surgeon	chirurgien
+surname	nom de famille
+surprise	etonner
+surprise	surprise
+surprise	inattendu
+surrealism	surrealisme
+surrender	se rendre
+suspect	soupconner
+swallow	hirondelle
+swallow	avaler
+swamp	marecage
+swan	cygne
+swastika	svastika
+swear	jurer
+swear word	juron
+sweat	sueur
+sweat	transpirer
+swede	rutabaga
+sweep	balayer
+sweet	doux
+sweet	sucre
+sweet	sympathique
+sweet	friandise
+sweet	charmant
+sweet	frais
+swell	gonfler
+swim	nager
+swimming pool	piscine
+swimsuit	maillot
+swing	balancer
+swing	balancoire
+sword	epee
+swordfish	espadon
+syllable	syllabe
+syllogism	syllogisme
+sympathetic nervous system	systeme nerveux orthosympathique
+symphony	symphonie
+symptom	symptome
+synchronize	synchroniser
+synonym	synonyme
+synthesizer	synthetiseur
+system	systeme
+table	table
+table	tableau
+table football	baby-foot
+table tennis	tennis de table
+tablespoon	cuiller a soupe
+tadpole	tetard
+tag	etiquette
+tail	queue
+tailor	tailleur
+take	prendre
+talent	talent
+talk	parler
+talk	conversation
+tall	(''thing, person'') haut
+tame	domestique
+tangent	tangente
+tantalum	tantale
+tape	bande
+tape recorder	magnetophone
+tapir	tapir
+tar	goudron
+tattoo	tatouage
+tattoo	tatouer
+taunt	sarcasme
+tawny owl	chouette hulotte
+tax	impot
+taxi	taxi
+tea	the
+tea	tasse
+tea	tisane
+tea leaf	feuille de the
+teach	enseigner
+teacher	professeur
+team	equipe
+teapot	theiere
+tear	larme
+tear	dechirer
+teaspoon	cuillere a cafe
+teat	trayon
+technetium	technetium
+technique	technique
+teenager	adolescent
+telegram	telegramme
+telephone	telephone
+telephone	telephoner
+telephone number	numero telephonique
+telescope	telescope
+television	television
+television	televiseur
+tell	raconter
+tellurium	tellure
+temperature	temperature
+template	gabarit
+temple	temple
+temple	tempe
+temporary	temporaire
+temptation	tentation
+ten	dix
+ten thousand	dix mille
+tendency	tendance
+tender	tendre
+tennis	tennis
+tense	temps
+tent	tente
+tenth	dixieme
+term	terme
+termite	termites
+terrible	terrible
+terror	terreur
+terrorism	terrorisme
+terrorist	terroriste
+test	test
+test	epreuve
+testicle	testicule
+testimony	temoignage
+testosterone	testosterone
+textbook	livre de classe
+thallium	thallium
+than	que
+thank	remercier
+thank you	merci
+thank you very much	merci beaucoup
+thanks	merci
+that	que
+that	ca
+the	le
+the early bird gets the worm	l'avenir appartient a ceux qui se levent tot
+the grass is always greener on the other side	L'herbe est toujours plus verte dans le pre du voisin
+theater/homonyms	theatre
+theft	vol
+their	leur
+theism	theisme
+theme	theme
+themselves	eux-memes
+then	alors
+then	puis
+theology	theologie
+theory	theorie
+there	la
+there is	il y a
+thermometer	thermometre
+thesaurus	Dictionnaire des synonymes
+these	ces
+thesis	these
+they	ils
+they	on
+thick	gros
+thief	voleur
+thigh	cuisse
+thing	chose
+think	penser
+think	considerer
+third	troisieme
+third person	troisieme personne
+thirst	soif
+thirsty	altere
+thirteen	treize
+thirteenth	treizieme
+thirty	trente
+thirty-one	trente et un
+this	ce
+thistle	chardon
+thou	tu
+though	neanmoins
+thought	idee
+thought	pensee
+thousand	mille
+thread	fil
+three	trois
+thrice	trois
+throat	gorge
+throat	goulot
+thrombocytopenia	thrombocytopenie
+throne	trone
+throw	jeter
+thrush	tourd
+thumb	pouce
+thunder	tonnerre
+thunder	tonner
+thus	ainsi
+tick	tique
+tickle	chatouiller
+tiddlywinks	jeu de puce
+tide	maree
+tie	cravate
+tie	lier
+tiger	tigre
+tile	carreau
+till	jusqu'a
+till	labourer
+timber	bois
+time	heure
+time	temps
+time	fois
+timid	timide
+tin	etain
+tin	bidon
+tin	d'etain
+tip	pourboire
+tire	pneu
+tired	fatigue
+tissue	tissu
+tit	nichon
+titanium	titane
+title	titre
+tmesis	tmese
+to	a
+to	-er
+toad	crapaud
+tobacco	tabac
+today	aujourd'hui
+today	de nos jours
+toe	doigt de pied
+together	ensemble
+toilet	toilettes
+toilet paper	papier de toilette
+tolerate	tolerer
+toll	peage
+tom	matou
+tomahawk	tomahawk
+tomato	tomate
+tomorrow	demain
+ton	tonne
+tongs	pinces
+tongue	langue
+tonight	ce soir
+tonight	ce
+too	aussi
+too	trop
+tool	outil
+tooth	dent
+toothbrush	brosse a dents
+toothpaste	dentifrice
+toothpick	cure-dent
+top	dessus
+topic	sujet
+torment	tourment
+tornado	tornade
+torso	torse
+tortoise	tortue
+total	somme
+total	total
+touch	toucher
+tourist	touriste
+tournament	tournoi
+towel	serviette
+town	commune
+toxic	toxique
+toy	jouet
+trachea	trachee
+tractor	tracteur
+trade	commerce
+trademark	marque commerciale
+tradition	tradition
+traffic	circulation
+tragedy	tragedie
+train	train
+train	s'entrainer
+training	entrainement
+tram	tramway
+transfer	transferer
+transfer	transfert
+transformation	transformation
+transitive verb	verbe transitif
+translate	traduire
+translation	traduction
+translation	translation
+translations	traductions
+translator	traducteur
+transliterate	translitterer
+transliteration	transcription
+transport	reporter
+transportation	transport
+transrealism	transrealisme
+transvestite	travesti
+travel	voyager
+treacle	melasse
+treasure	tresor
+treasurer	tresorier
+treaty	traite
+tree	arbre
+tree trunk	tronc
+tribe	tribu
+tricycle	tricycle
+trill	consonne roulee
+trillion	billion
+trillion	trillion
+trinity	trinite
+trip	voyage
+trouble	souci
+trouble	peine
+trousers	pantalon
+trout	truite
+truck	camion
+true	vrai
+trumpet	trompette
+trumpet	jouer
+trunk	tronc
+trunk	malle
+trunk	trompe
+trunk	coffre
+truth	verite
+tsunami	tsunami
+tube	tuyau
+tuberculosis	tuberculose
+tulip	tulipe
+tuna	thon
+tungsten	tungstene
+turd	etron
+turkey	dinde
+turmeric	curcuma
+turnip	navet
+turquoise	turquoise
+turtle	tortue
+turtle dove	tourterelle
+tusk	dent saillante
+twat	con
+twelfth	douzieme
+twelve	douze
+twenty	vingt
+twenty-eight	vingt-huit
+twenty-five	vingt-cinq
+twenty-four	vingt-quatre
+twenty-nine	vingt-neuf
+twenty-one	vingt-et-un
+twenty-seven	vingt-sept
+twenty-six	vingt-six
+twenty-three	vingt-trois
+twenty-two	vingt-deux
+twice	deux
+twilight	aube
+twilight	penombre
+twin	jumeau
+twist	tordre
+two	deux
+typewriter	machine a ecrire
+typhoon	typhon
+tyre	pneu
+ubiquitous	ubiquiste
+udder	pis
+ugly	laid
+ulcer	ulcere
+umbrella	parapluie
+unbibium	unbibium
+unbinilium	unbinilium
+unbiunium	unbiunium
+uncle	oncle
+under	sous
+underpants	calecon
+understand	comprendre
+undress	se deshabiller
+undress	deshabiller
+unemployment	chomage
+unfortunately	malheureusement
+unicorn	licorne
+unicycle	monocycle
+unidentified flying object	objet volant non-identifie
+uniform	uniforme
+union	union
+union	reunion
+unique	unique
+unit	unite
+unite	unir
+universal	universel
+university	universite
+unjust	injuste
+unknown	inconnu
+unleaded	sans plomb
+unleaded fuel	essence sans plomb
+unless	a moins que
+unmarried	celibataire
+unnecessary	inutile
+unreal	irreel
+unrequited love	amour non recompense
+until	jusqu'a
+ununennium	ununennium
+ununhexium	ununhexium
+ununpentium	ununpentium
+ununquadium	ununquadium
+ununseptium	ununseptium
+ununtrium	ununtrium
+upper	superieur
+urban	urbain
+urgent	urgent
+urinate	uriner
+urine	urine
+us	(''after preposition'')
+use	utiliser
+use	usage
+use	utilite
+useful	utile
+useless	inutile
+usual	habituel
+usurp	usurper
+uterus	uterus
+utopia	utopie
+vacant	vide
+vacation	aller
+vacuum	vide
+vacuum	aspirateur
+vacuum cleaner	aspirateur
+vagina	vagin
+vague	vague
+valid	valide
+valley	vallee
+valuable	precieux
+value added tax	taxe sur la valeur ajoutee
+vampire	vampire
+vanadium	vanadium
+vandal	vandale
+vandalism	vandalisme
+vanilla	vanille
+vanish	disparaitre
+vapor	vapeur
+vapour	vapeur
+variable	variable
+various	divers
+vas deferens	canal deferent
+vase	vase
+vast	vaste
+veal	veau
+vector	vecteur
+vegetable	legume
+vegetable	vegetal
+vehicle	vehicule
+vein	veine
+vending machine	distributeur automatique
+venom	venin
+verb	verbe
+vernacular	vernaculaire
+versus	contre
+vert	sinople
+vertebra	vertebre
+vertebrate	vertebre
+very	tres
+vessel	recipient
+vessel	vaisseau
+victory	victoire
+view	vue
+view	regarder
+vigilance	vigilance
+village	village
+vindication	justification
+vine	vigne
+vinegar	vinaigre
+vineyard	vignoble
+violation	infraction
+violence	violence
+violet	violet
+violin	violon
+viper	vipere
+virgin	vierge
+virology	virologie
+virtual	virtuel
+virtual reality	virtuel realite
+virtue	vertu
+virtuoso	virtuose
+virus	virus
+visa	visa
+vise	etau
+visible	evident
+visit	visiter
+visit	visite
+vital	vital
+vizier	vizir
+vocative	vocatif
+vocative case	vocatif
+vodka	vodka
+volcano	volcan
+volleyball	volley-ball
+volt	volt
+voltage	tension
+volume	volume
+vomit	vomir
+vote	voter
+vote	voix
+vowel	voyelle
+vulture	vautour
+wage	salaire
+waggon	charrette
+wagon	charrette
+waist	taille
+wait	attendre
+waiter	garcon
+walk	marcher
+walk	promenade
+wall	murs
+wall	mur
+wallet	portefeuille
+wallpaper	papier peint
+walnut	noix
+walnut	noyer
+walrus	morse
+want	vouloir
+war	guerre
+wardrobe	garde-robe
+warehouse	entrepot
+warfare	guerre
+warm	chaud
+warm	chaleureux
+warrior	guerrier
+wart	verrue
+warthog	phacochere
+wash	laver
+washbasin	lavabo
+wasp	guepe
+watch	montre
+watch	regarder
+watch	garde
+water	eau
+water	arroser
+water	abreuver
+water vapor	vapeur
+waterfall	cascade
+waterfowl	oiseau aquatique
+watering can	arrosoir
+watermelon	pasteque
+waterproof	impermeable
+wave	vague
+wave	saluer
+wax	cire
+wax	de cire
+way	voie
+way	maniere
+we	nous
+weak	faible
+weakness	faiblesse
+weapon	arme
+weapon of mass destruction	arme de destruction massive
+weapons of mass destruction	armes de destruction massive
+wear	porter
+weather	temps
+weave	tisser
+weaver	tisserand
+web	toile
+web site	site Web
+wedding	mariage
+wedge	coin
+weed	mauvaise herbe
+week	semaine
+weekend	week-end
+weekly	hebdomadaire
+weekly	hebdomadairement
+weep	pleurer
+weight	poids
+welcome	bienvenue
+welcome	accueillir
+well	puits
+well	bien
+werewolf	loup-garou
+west	ouest
+west	occidental
+west	vers
+wet	mouille
+wet	mouiller
+whale	baleine
+wharf	quai
+what	quoi
+what	ce que
+what	quel
+what is your name	Comment vous appelez-vous
+what time is it	quelle heure est-il
+what's your name	Comment vous appellez-vous
+wheat	ble
+wheel	roue
+wheelbarrow	brouette
+wheelchair	fauteuil roulant
+when	quand
+when pigs fly	quand les poules auront des dents
+when the cat's away the mice will play	quand le chat n'est pas la, les souris dansent
+where	où
+where	vers
+where is the toilet	où sont les toilettes
+wherefore	pourquoi
+which	quel
+which	qui
+which	lequel
+while	pendant que
+while	tandis que
+whip	fouet
+whiskey	whiskey
+whisky	whiskey
+whisper	chuchoter
+whisper	chuchotement
+white	blanc
+white dwarf	naine blanche
+who	qui
+whore	putain
+whose	a qui
+whose	de qui
+why	pourquoi
+wicked	mechant
+wide	large
+widow	veuve
+wife	femme
+wig	perruque
+wiki	wiki
+wikify	wikifier
+wild	sauvage
+wild boar	sanglier
+will	testament
+will	volonte
+will	''Use the future form of the verb that follows; in colloquial speech, use verb "to go" as auxiliar + infinitive''
+willingly	volontiers
+willow	saule
+win	gagner
+win	gain
+wind	vent
+wind	tourner
+window	fenetre
+window	vitrine
+wine	vin
+wine	lie-de-vin
+winter	hiver
+wire	fil
+wisdom tooth	dent de sagesse
+wise	sage
+wisent	bison d'europe
+wish	souhaiter
+wish	souhait
+witch	sorciere
+with	avec
+within	dans
+without	sans
+wizard	mage
+wolf	loup
+wolf	devorer
+wollastonite	wollastonite
+wolverine	glouton
+woman	femme
+womanizer	galant
+womb	uterus
+women	femmes
+wonder	merveille
+wonder	se demander
+wonderful	merveilleux
+wood	bois
+woodpecker	pic
+woods	bois
+woodwind instrument	bois
+wool	laine
+word	mot
+word	parole
+work	travailler
+work	marcher
+worker	travailleur
+workers of the world, unite	proletaires de tous les pays, unissez-vous
+world war	guerre mondiale
+worm	ver
+worm	vermine
+wormwood	armoise
+worry	souci
+worry	s'inquieter
+worse	pire
+worst	le pire
+worth	valeur
+worthless	sans valeur
+wound	blessure
+wound	blesser
+wreck	collision
+wrestling	lutte
+wrinkle	rider
+wrinkle	ride
+wrist	poignet
+write	ecrire
+writer	ecrivain
+wrong	faux
+wrong	immoral
+wrong	impropre
+xenon	xenon
+xenophobia	xenophobie
+xylophone	xylophone
+y'all	vous
+yak	yack
+yam	igname
+yard	cour
+yawn	bailler
+yawn	baillement
+yeah	ouais
+year	an
+yearly	annuel
+yearly	annuellement
+yeast	levure
+yell	crier
+yellow	jaune
+yellow	froussard
+yes	oui
+yes	si
+yesterday	hier
+yet	encore
+yoghurt	yaourt
+yoke	joug
+yolk	jaune d'euf
+you	vous
+you	on
+you're welcome	de rien
+young	jeune
+yourself	toi-meme
+youth	jeunesse
+youth	jeune
+yttrium	yttrium
+zebra	zebre
+zelkova	orme de Siberie
+zero	zero
+zero	mettre
+zinc	zinc
+zip fastener	fermeture eclair
+zirconium	zirconium
+zither	cithare
+zone	zone
+zoology	zoologie
