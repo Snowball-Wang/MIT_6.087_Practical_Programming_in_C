@@ -1,8 +1,8 @@
 /*
  * prob1.c
  *
- *  Created on: 
- *      Author: 
+ *  Created on: Snowball Wang 
+ *      Author: June 3, 2019
  */
 
 #include <stdio.h>
@@ -278,13 +278,82 @@ struct token_queue expr_to_infix(char * str) {
 /* postcondition: returned queue contains all the tokens, and pqueue_infix should be 
    empty */
 struct token_queue infix_to_postfix(struct token_queue * pqueue_infix) {
-	/* TODO: construct postfix-ordered queue from infix-ordered queue;
+	/* construct postfix-ordered queue from infix-ordered queue;
 	   all tokens from infix queue should be added to postfix queue or freed */
+	struct token_queue queue_postfix;
+	p_expr_token ptop = NULL;
+	p_expr_token ptoken = NULL;
+
+	/* initialize the queue to empty */
+	queue_postfix.front = NULL;
+	queue_postfix.back = NULL;
+
+	while((ptoken = dequeue(pqueue_infix)))
+	{
+		if (ptoken->type == OPERAND)
+		{
+			enqueue(&queue_postfix, ptoken);
+		}
+		else
+		{
+			if (ptop == NULL)
+			{
+				push(&ptop, ptoken);
+			}
+			else
+			{
+			    int op_code1 = ptoken->value.op_code;
+				int op_code2 = ptop->value.op_code;
+				while (op_associativity[op_precedences[op_code1]] == LEFT && op_precedences[op_code1] <= op_precedences[op_code2] && ptop)
+				{
+					enqueue(&queue_postfix, pop(&ptop));
+				}
+				push(&ptop, ptoken);
+			}
+		}
+	}
+	while(ptop)
+	{
+		enqueue(&queue_postfix, pop(&ptop));
+	}
+	return queue_postfix;
 }
 
 /* evalutes the postfix expression stored in the queue */
 /* postcondition: returned value is final answer, and pqueue_postfix should be empty */
 double evaluate_postfix(struct token_queue * pqueue_postfix) {
-	/* TODO: process postfix-ordered queue and return final answer;
+	/* process postfix-ordered queue and return final answer;
 	   all tokens from postfix-ordered queue is freed */
+	p_expr_token ans = NULL;
+	p_expr_token ptoken = NULL;
+	union token_value tmp;
+
+	while((ptoken = dequeue(pqueue_postfix)))
+	{
+		if (ptoken->type == OPERAND)
+		{
+			push(&ans, ptoken);
+		}
+		else
+		{
+			p_expr_token operand1 = pop(&ans);
+			p_expr_token operand2 = pop(&ans);
+			switch(ptoken->value.op_code)
+			{
+				case 0: tmp.operand = operand2->value.operand + operand1->value.operand; break;
+				case 1: tmp.operand = operand2->value.operand - operand1->value.operand; break;
+				case 2: tmp.operand = operand2->value.operand * operand1->value.operand; break;
+				case 3: tmp.operand = operand2->value.operand / operand1->value.operand; break;
+			}
+			push(&ans, new_token(OPERAND, tmp));
+		}
+	}
+	return ans->value.operand;
+
 }
+
+
+
+
+
+
