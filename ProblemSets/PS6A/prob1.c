@@ -290,12 +290,15 @@ struct token_queue infix_to_postfix(struct token_queue * pqueue_infix) {
 
 	while((ptoken = dequeue(pqueue_infix)))
 	{
+		/* if ptoken is an operand */
 		if (ptoken->type == OPERAND)
 		{
 			enqueue(&queue_postfix, ptoken);
 		}
+		/* if ptoken is an operator */
 		else
 		{
+			/* if the operator stack is empty */
 			if (ptop == NULL)
 			{
 				push(&ptop, ptoken);
@@ -304,14 +307,19 @@ struct token_queue infix_to_postfix(struct token_queue * pqueue_infix) {
 			{
 			    int op_code1 = ptoken->value.op_code;
 				int op_code2 = ptop->value.op_code;
-				while (op_associativity[op_precedences[op_code1]] == LEFT && op_precedences[op_code1] <= op_precedences[op_code2] && ptop)
+				/* operators with higer precedence are moved to queue_postfix */
+				while (( (op_precedences[op_code1] < op_precedences[op_code2]) ||
+					   (op_precedences[op_code1] == op_precedences[op_code2] && op_associativity[op_precedences[op_code2]] == LEFT)) && ptop)
 				{
 					enqueue(&queue_postfix, pop(&ptop));
+					if (ptop)
+					    op_code2 = ptop->value.op_code;  /* update op_code2 when ptop pops out of the stack */
 				}
 				push(&ptop, ptoken);
 			}
 		}
 	}
+	/* pop out the rest of the operator stack */
 	while(ptop)
 	{
 		enqueue(&queue_postfix, pop(&ptop));
@@ -330,26 +338,38 @@ double evaluate_postfix(struct token_queue * pqueue_postfix) {
 
 	while((ptoken = dequeue(pqueue_postfix)))
 	{
+		/* if ptoken is an operand */
 		if (ptoken->type == OPERAND)
 		{
 			push(&ans, ptoken);
 		}
 		else
 		{
-			p_expr_token operand1 = pop(&ans);
-			p_expr_token operand2 = pop(&ans);
-			switch(ptoken->value.op_code)
+			/* if ptoken is NEGATE */
+			if (ptoken->value.op_code == NEGATE)
 			{
-				case 0: tmp.operand = operand2->value.operand + operand1->value.operand; break;
-				case 1: tmp.operand = operand2->value.operand - operand1->value.operand; break;
-				case 2: tmp.operand = operand2->value.operand * operand1->value.operand; break;
-				case 3: tmp.operand = operand2->value.operand / operand1->value.operand; break;
+				p_expr_token operand = pop(&ans);
+				tmp.operand = 0 - operand->value.operand;
+
+			}
+			/* if ptoken is the rest operator */
+			else
+			{
+				p_expr_token operand1 = pop(&ans);
+				p_expr_token operand2 = pop(&ans);
+				switch(ptoken->value.op_code)
+				{
+					case 0: tmp.operand = operand2->value.operand + operand1->value.operand; break;
+					case 1: tmp.operand = operand2->value.operand - operand1->value.operand; break;
+					case 2: tmp.operand = operand2->value.operand * operand1->value.operand; break;
+					case 3: tmp.operand = operand2->value.operand / operand1->value.operand; break;
+				}
 			}
 			push(&ans, new_token(OPERAND, tmp));
 		}
 	}
+	/* return the value at the top of the stack */
 	return ans->value.operand;
-
 }
 
 
