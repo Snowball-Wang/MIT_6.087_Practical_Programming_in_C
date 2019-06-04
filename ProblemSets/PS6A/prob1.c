@@ -14,7 +14,7 @@
 
 /* enable (1) or disable (0) parentheses checking in parsing strings */
 /* leave disabled for part (a); enable for part (b) */
-#define PARSE_PARENS 0
+#define PARSE_PARENS 1 
 
 /* type of token */
 enum token_type {
@@ -295,6 +295,20 @@ struct token_queue infix_to_postfix(struct token_queue * pqueue_infix) {
 		{
 			enqueue(&queue_postfix, ptoken);
 		}
+		/* if ptoken is a left parenthesis */
+		else if (ptoken->type == LPARENS)
+		{
+			push(&ptop, ptoken);
+		}
+		/* if ptoken is a right parenthesis */
+		else if (ptoken->type == RPARENS)
+		{
+			while(ptop && ptop->type != LPARENS)
+				enqueue(&queue_postfix, pop(&ptop));
+
+			/* pop out the left parenthesis from the stack */
+			pop(&ptop);
+		}
 		/* if ptoken is an operator */
 		else
 		{
@@ -307,9 +321,10 @@ struct token_queue infix_to_postfix(struct token_queue * pqueue_infix) {
 			{
 			    int op_code1 = ptoken->value.op_code;
 				int op_code2 = ptop->value.op_code;
-				/* operators with higer precedence are moved to queue_postfix */
-				while (( (op_precedences[op_code1] < op_precedences[op_code2]) ||
-					   (op_precedences[op_code1] == op_precedences[op_code2] && op_associativity[op_precedences[op_code2]] == LEFT)) && ptop)
+				/* operators with higer precedence are moved to queue_postfix and ignore parenthesis */
+				while (((op_precedences[op_code1] < op_precedences[op_code2]) ||
+					   (op_precedences[op_code1] == op_precedences[op_code2] && op_associativity[op_precedences[op_code2]] == LEFT)) && 
+						ptop && ptop->type == OPERATOR)
 				{
 					enqueue(&queue_postfix, pop(&ptop));
 					if (ptop)
