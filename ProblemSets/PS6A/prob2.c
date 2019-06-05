@@ -1,8 +1,8 @@
 /*
  * prob2.c
  *
- *  Created on:
- *      Author:
+ *  Created on: June 5, 2019
+ *      Author: Snowball Wang
  */
 
 /* header files */
@@ -103,18 +103,32 @@ int main(int argc, char * argv[]) {
 /* allocate new node on the heap
    output: pointer to new node (must be freed) */
 struct s_trie_node * new_node(void) {
-	/* TODO: allocate a new node on the heap, and
+	/* allocate a new node on the heap, and
 	   initialize all fields to default values */
+	struct s_trie_node *pnode = (struct s_trie_node *)malloc(sizeof(struct s_trie_node));
+	pnode->translation = NULL;
+	for (int i; i < UCHAR_MAX + 1; i++)
+		pnode->children[i] = NULL;
+
+	return pnode;
 }
 
 /* delete node and all its children
    input: pointer to node to delete
    postcondition: node and children are freed */
 void delete_node(struct s_trie_node * pnode) {
-	/* TODO: delete node and all its children
+	/* delete node and all its children
 	   Be sure to free non-null translations!
 	   Hint: use recursion
 	 */
+	if (pnode->translation)
+		free(pnode->translation);
+	for (int i; i < UCHAR_MAX + 1; i++)
+	{
+		if (pnode->children[i])
+			delete_node(pnode->children[i]);
+		}
+	free(pnode);
 }
 
 /* add word to trie, with translation
@@ -122,12 +136,41 @@ void delete_node(struct s_trie_node * pnode) {
    output: non-zero if new node added, zero otherwise
    postcondition: word exists in trie */
 int add_word(const char * word, char * translation) {
-	/* TODO: add word to trie structure
+	/* add word to trie structure
 	   If word exists, append translation to existing
 	   string
 	   Be sure to store a copy of translation, since
 	   the string is reused by load_dictionary()
 	 */
+
+	/* I can't write the code first because I ignore 
+	   the fact proot is a static variable*/
+	struct s_trie_node *pnode = proot;
+	int len = strlen(word);
+	unsigned char ch;
+
+	for (int i = 0; i < len; i++)
+	{
+		ch = word[i];
+		if (!pnode->children[ch])
+			pnode->children[ch] = new_node();
+		pnode = pnode->children[ch];
+	}
+
+	if (pnode->translation)
+	{
+		char * oldtranslation = pnode->translation;
+		int oldlen = strlen(oldtranslation);
+		int newlen = strlen(translation);
+		pnode->translation = malloc(oldlen + newlen + 2);
+		strcpy(pnode->translation, oldtranslation);
+		strcpy(pnode->translation + oldlen, ",");
+		strcpy(pnode->translation + oldlen + 1, translation);
+	}
+	else
+	{
+		pnode->translation = strcpy(malloc(strlen(translation) + 1), translation);
+	}
 }
 
 /* delimiter for dictionary */
@@ -177,7 +220,17 @@ unsigned int load_dictionary(const char * filename) {
    input: word to search
    output: translation, or NULL if not found */
 char * lookup_word(const char * word) {
-	/* TODO: search trie structure for word
+	/* search trie structure for word
 	   return NULL if word is not found */
+	struct s_trie_node *pnode = proot;
+	int len = strlen(word);
+	for (int i = 0; i < len; i++)
+	{
+		if (pnode->children[word[i]])
+			pnode = pnode->children[word[i]];
+		else
+			return NULL;
+	}
+	return pnode->translation;
 }
 
