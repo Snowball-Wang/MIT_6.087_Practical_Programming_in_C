@@ -9,9 +9,9 @@
 
 struct wordrec
 {
-  char* word;
-  unsigned long count;
-  struct wordrec* next;
+    char* word;
+    unsigned long count;
+    struct wordrec* next;
 };
 
 /*
@@ -20,14 +20,14 @@ struct wordrec
 */
 struct wordrec* walloc(const char* str)
 {
-  struct wordrec* p=(struct wordrec*)malloc(sizeof(struct wordrec));
-  if(p!=NULL)
-  {
-      p->count=0;
-      p->word=strdup(str); /*creates a duplicate*/
-      p->next=NULL;
-  }
-  return p;
+    struct wordrec* p=(struct wordrec*)malloc(sizeof(struct wordrec));
+    if(p!=NULL)
+    {
+        p->count=0;
+        p->word=strdup(str); /*creates a duplicate*/
+        p->next=NULL;
+    }
+    return p;
 }
 
 /*hash bucket*/
@@ -40,13 +40,13 @@ struct wordrec* table[MAX_BUCKETS]; /* changed from MAX_LEN -- dsw */
 */
 unsigned long hashstring(const char* str)
 {
-  unsigned long hash=0;
-  while(*str)
+    unsigned long hash=0;
+    while(*str)
     {
-      hash= hash*MULTIPLIER+*str;
-      str++;
+        hash= hash*MULTIPLIER+*str;
+        str++;
     }
-  return hash%MAX_BUCKETS;
+    return hash%MAX_BUCKETS;
 }
 
 
@@ -57,21 +57,35 @@ unsigned long hashstring(const char* str)
 */
 struct wordrec*  lookup(const char* str,int create)
 {
-  struct wordrec* wp=table[hash];
-  struct wordrec* curr=NULL;
-  unsigned long hash=hashstring(str);/*starting point*/
-  /*TODO: write code to
-  follow the linked list to find str
-  if found return pointer*/
+    struct wordrec* curr=NULL;
+    unsigned long hash=hashstring(str);/*starting point*/
+    struct wordrec* wp=table[hash];
+    /* write code to
+    follow the linked list to find str
+    if found return pointer*/
+    curr = wp;
+    while (curr)
+    {
+        if (!strcmp(curr->word, str))
+            return curr;
+        else
+        {
+            curr = curr->next; 
+        }
+    }
 
   /*if not found and create specified*/
-   if(create)
+    if(create)
     {
-      /*TODO:write code to  
-       create new node
-      update linked list*/
+        /* write code to  
+         create new node
+        update linked list*/
+        curr = walloc(str);
+        curr->count = 0;
+        curr->next = table[hash];
+        table[hash] = curr;
     }
-  return curr;
+    return curr;
 }
 
 /*
@@ -80,44 +94,55 @@ struct wordrec*  lookup(const char* str,int create)
 */
 void cleartable()
 {
-  struct wordrec* wp=NULL,*p=NULL;
-  int i=0;
-  /*TODO: write code to
-    reclaim memory 
-  */
+    struct wordrec* wp=NULL,*p=NULL;
+    int i=0;
+    /*write code to
+      reclaim memory 
+    */
+    for (i = 0; i < MAX_BUCKETS; i++)
+    {
+        wp = table[i];
+        while (wp)
+        {
+            p = wp->next;
+            free(wp->word);
+            free(wp);
+            wp = p;
+        }
+    }
 }
 
 int main(int argc,char* argv[])
 {
-  FILE* fp=fopen("book.txt","r");
-  char  word[1024]; /*big enough*/
-  struct wordrec* wp=NULL;
-  int i=0;
+    FILE* fp=fopen("book.txt","r");
+    char  word[1024]; /*big enough*/
+    struct wordrec* wp=NULL;
+    int i=0;
 
-  memset(table,0,sizeof(table));
-  /*read from input*/
-  while(1)
-  {
-    if(fscanf(fp,"%s",word)!=1)
-      break;
-    wp=lookup(word,1); /*create if doesn't exist*/
-    wp->count++;
-  }
-  fclose(fp);
-
-  /*
-    print all words have frequency>100
-   */
-  for(i=0;i<MAX_BUCKETS;i++)
+    memset(table,0,sizeof(table));
+    /*read from input*/
+    while(1)
     {
-      for(wp=table[i];wp!=NULL;wp=wp->next)
-	{
-	  if(wp->count>1000)
-	    {
-	      printf("%s-->%ld\n",wp->word,wp->count);
-	    }
-	}
+        if(fscanf(fp,"%s",word)!=1)
+            break;
+        wp=lookup(word,1); /*create if doesn't exist*/
+        wp->count++;
     }
-  cleartable();
-  return 0;
+    fclose(fp);
+
+   /*
+     print all words have frequency>100
+   */
+    for(i=0;i<MAX_BUCKETS;i++)
+    {
+        for(wp=table[i];wp!=NULL;wp=wp->next)
+	    {
+	        if(wp->count>1000)
+	        {
+	            printf("%s-->%ld\n",wp->word,wp->count);
+	        }
+	    }
+    }
+    cleartable();
+    return 0;
 }
