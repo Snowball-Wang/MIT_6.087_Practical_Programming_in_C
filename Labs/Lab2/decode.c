@@ -8,9 +8,9 @@
 struct tnode
 {
     struct  tnode* left; /*used when in tree*/
-    struct  tnode*right; /*used when in tree*/  
+    struct  tnode* right; /*used when in tree*/  
     int     isleaf;
-    char     symbol;
+    char    symbol;
 };
 
 struct code
@@ -59,7 +59,21 @@ void build_tree(FILE* fp)
 		len=strlen(strcode);
 		for(i=0;i<len;i++)
 		{
-			/*TODO: create the tree as you go*/
+			/*create the tree as you go*/
+			if (strcode[i] == '0')
+			{
+				if (!curr->left)
+					curr->left = talloc();
+				curr = curr->left;
+				curr->isleaf = 0;
+			}
+			else
+			{
+				if (!curr->right)
+					curr->right = talloc();
+				curr = curr->right;
+				curr->isleaf = 0;
+			}
 		}
 		/*assign code*/
 		curr->isleaf=1;
@@ -77,10 +91,28 @@ void decode(FILE* fin,FILE* fout)
 	struct tnode* curr=root;
 	while((c=getc(fin))!=EOF)
 	{
-		/*TODO:
+		/*
 			traverse the tree
 			print the symbols only if you encounter a leaf node
-		*/
+		*/	
+		if (c == '0')
+		{
+			curr = curr->left;
+			if (curr->isleaf)
+			{
+				fprintf(fout, "%c", curr->symbol);
+				curr = root; /*remember to set the curr to root again*/
+			}
+		}
+		else
+		{
+			curr = curr->right;
+			if (curr->isleaf)
+			{
+				fprintf(fout, "%c", curr->symbol);
+				curr = root; /*remember to set the curr to root again*/
+			}
+		}
 	}
 }
 /*
