@@ -1,8 +1,8 @@
 /*
  * prob1.c
  *
- *  Created on:
- *      Author:
+ *  Created on: June 25, 2019
+ *      Author: Snowball Wang
  */
 
 #include <stdio.h>
@@ -339,12 +339,28 @@ int main(int argc, char * argv[]) {
 		return 1;
 	}
 
-	/* TODO: load the database, probably using sqlite3_open() */
+	/* load the database, probably using sqlite3_open() */
+	sqlite3 *db;
+	char *errmsg = NULL;
+	int ret = sqlite3_open(argv[1], &db);
+	if (ret != SQLITE_OK)
+	{
+		fprintf(stderr, "Cannot open database: %s\n", sqlite3_errmsg(db));
+		sqlite3_close(db);
+		return 1;
+	}
+	printf("Open database successfully!\n");
 
-	/* TODO: execute the SQL query, probably using sqlite3_exec() */
+	/* execute the SQL query, probably using sqlite3_exec() */
+	ret = sqlite3_exec(db, sql, NULL, NULL, &errmsg);
+	if (ret != SQLITE_OK)
+	{
+		fprintf(stderr, "Fail to execute the SQL query: %s\n", errmsg);
+	}
 
-	/* TODO: close the database when you're done with it */
-
+	/* close the database when you're done with it */
+	sqlite3_close(db);
+	printf("Close database!\n");
 	return 0;
 }
 
