@@ -340,7 +340,7 @@ int main(int argc, char * argv[]) {
 	}
 
 	/* load the database, probably using sqlite3_open() */
-	sqlite3 *db;
+	sqlite3 *db = NULL;
 	char *errmsg = NULL;
 	int ret = sqlite3_open(argv[1], &db);
 	if (ret != SQLITE_OK)
@@ -352,7 +352,7 @@ int main(int argc, char * argv[]) {
 	printf("Open database successfully!\n");
 
 	/* execute the SQL query, probably using sqlite3_exec() */
-	ret = sqlite3_exec(db, sql, NULL, NULL, &errmsg);
+	ret = sqlite3_exec(db, sql, display_result, NULL, &errmsg);
 	if (ret != SQLITE_OK)
 	{
 		fprintf(stderr, "Fail to execute the SQL query: %s\n", errmsg);
