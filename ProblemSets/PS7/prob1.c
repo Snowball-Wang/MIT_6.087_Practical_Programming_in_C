@@ -1,7 +1,7 @@
 /*
  * prob1.c
  *
- *  Created on: June 25, 2019
+ *  Created on: July 23, 2019
  *      Author: Snowball Wang
  */
 
@@ -98,7 +98,6 @@ void free_tnode(p_tnode pnode) {
 		if (pnode->values[n])
 			free_record(pnode->values[n]);
 	}
-
 	free(pnode);
 }
 
@@ -115,17 +114,30 @@ int key_compare(const nodekey key1, const nodekey key2) {
  * point of a new key. Returns nonnegative index of insertion point
  * if new key, or -(index+1) for existing key found at index
  *
- * TODO: fill in the binary search while loop
+ * fill in the binary search while loop
  */
 int find_index(nodekey key, p_tnode pnode) {
 	/* find in between */
 	int icmp, L = 0, R = pnode->nkeys-1, M;
 	int ibetween = 0; /* index to return */
 
-	/* TODO: complete binary search;
+	/* complete binary search;
 	 * use key_compare() to compare two keys. */
 	while (L <= R) {
-
+		M = (R + L) >> 2;
+		icmp = key_compare(key, pnode->keys[M]);
+		if (icmp > 0)
+		{
+			L = M + 1;
+			ibetween = L;
+		}
+		else if (icmp < 0)
+		{
+			R = M - 1;
+			ibetween = R + 1;
+		}
+		else
+			return -(M + 1);
 	}
 	return ibetween;
 }
@@ -244,27 +256,32 @@ nodevalue * add_element(nodekey key, nodevalue * pvalue) {
  * similar to binary search tree traversal (except nodes have multiple values and children)
  * writes record info to file pointer fp
  *
- * TODO: fill in this function
+ * fill in this function
  */
 void inorder_traversal(p_tnode pnode, FILE * fp) {
 	int n;
 	for (n = 0; n < pnode->nkeys; n++) {
-		/* TODO: traverse children and keys, in order */
+		/* traverse children and keys, in order */
+		while (pnode->children[n] != NULL)
+			inorder_traversal(pnode->children[n], fp);
+		display_record(pnode->values[n], fp);
 	}
 	if (pnode->children[n] != NULL) {
-		/* TODO: don't forget about the last child */
+		/* don't forget about the last child */
+		inorder_traversal(pnode->children[n], fp);
 	}
 }
 
 /* find_value() - locate value for specified key in B-tree
  * need to return pointer to record structure, or NULL if record not found
- * TODO: fill in this function
+ * fill in this function
  */
 nodevalue * find_value(const nodekey key) {
 	int ichild;
 	p_tnode pleaf = ptreeroot; /* start at root */
 
-	/* TODO: iterate pleaf down to leaves of tree, or until key is found */
+	/* iterate pleaf down to leaves of tree, or until key is found */
+
 
 	return NULL; /* didn't find it */
 }
@@ -327,17 +344,18 @@ int store_result(void * pextra, int nfields, char ** arrvalues, char ** arrfield
 int main(int argc, char * argv[]) {
 
 	/* part (a): execute the first three SQL queries */
-	const char sql[] = "SELECT * FROM movies WHERE ProductionYear < 1950";
-	/* const char sql[] = "SELECT * FROM movies WHERE Format == \"VHS\""; */
+	/* const char sql[] = "SELECT * FROM movies WHERE ProductionYear < 1950"; */
+     const char sql[] = "SELECT * FROM movies WHERE Format == \"VHS\""; 
 	/* const char sql[] = "SELECT * FROM movies WHERE Language == \"Spanish\""; */
 
 	/* part (b, c, d): use this SQL query to read the entire table */
-	/* const char sql[] = "SELECT * FROM movies"; */
+    /*const char sql[] = "SELECT * FROM movies";*/
 
 	if (argc < 2) {
 		fprintf(stderr,"Error: database name not specified!\n");
 		return 1;
 	}
+	ptreeroot = alloc_tnode();
 
 	/* load the database, probably using sqlite3_open() */
 	sqlite3 *db = NULL;
@@ -352,7 +370,7 @@ int main(int argc, char * argv[]) {
 	printf("Open database successfully!\n");
 
 	/* execute the SQL query, probably using sqlite3_exec() */
-	ret = sqlite3_exec(db, sql, display_result, NULL, &errmsg);
+	ret = sqlite3_exec(db, sql, store_result, NULL, &errmsg);
 	if (ret != SQLITE_OK)
 	{
 		fprintf(stderr, "Fail to execute the SQL query: %s\n", errmsg);
@@ -361,6 +379,19 @@ int main(int argc, char * argv[]) {
 	/* close the database when you're done with it */
 	sqlite3_close(db);
 	printf("Close database!\n");
+
+
+	if (argc > 3)
+	{
+		FILE * fp = fopen(argv[2], "w");
+		if (fp != NULL)
+		{
+			inorder_traversal(ptreeroot, fp);
+			fclose(fp);
+		}
+	}
+	
+	free_tnode(ptreeroot);
 	return 0;
 }
 
