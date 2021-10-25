@@ -1,8 +1,8 @@
 /*
  * prob1d.c
  *
- *  Created on: Jan 20, 2010
- *      Author: dweller
+ *  Created on: Oct 25, 2021
+ *      Author: Jieqiang Wang
  */
 
 #include <stdio.h>
@@ -20,7 +20,6 @@ int main(int argc, char * argv[]) {
 
 	int nresult, n;
 	char strtitles[NUM_TITLES][256] = {"Citizen Kane", "Ponderosa", "Gosford Park", "Transformers", "Gone with the Wind", "When Harry Met Sally", "Avatar", "Simpsons Movie, The", "American Pie 2", "Superman Returns"};
-	struct s_record * pvalue;
 
 	if (argc < 2) {
 		fprintf(stderr,"Error: database name not specified!\n");
