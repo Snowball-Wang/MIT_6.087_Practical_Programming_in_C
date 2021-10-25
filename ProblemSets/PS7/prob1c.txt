@@ -1,0 +1,14 @@
+Please input the movie name: Citizen Kane
+[#126] Citizen Kane (1941): Drama, DVD, English, <http://us.imdb.com/Title?0033467>
+Please input the movie name: Casablanca
+[#62] Casablanca (1943): Drama, VHS, English, <http://us.imdb.com/Title?0034583>
+Please input the movie name: Gone with the Wind
+[#722] Gone with the Wind (1939): Drama, DVD, English, <http://www.imdb.com/title/tt0031381/>
+Please input the movie name: Forest Gump
+Forest Gump not found
+Please input the movie name: Forrest Gump
+[#290] Forrest Gump (1994): Drama, DVD, English, <http://www.imdb.com/title/tt0109830/>
+Please input the movie name: Fight Club
+[#14] Fight Club (2000): Drama, DVD, English, <http://us.imdb.com/Title?0137523>
+Please input the movie name: 
+Input is an empty string, exiting...
