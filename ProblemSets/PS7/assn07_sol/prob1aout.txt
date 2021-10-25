@@ -1,0 +1,50 @@
+Output for Problem 1(a)
+
+For SQL query: SELECT * FROM movies WHERE ProductionYear < 1950
+
+BarCode: [3141973] MovieTitle: [Casablanca] MovieCategory: [Drama] ProductionYear: [1943] Format: [VHS] Language: [English] Web: [http://us.imdb.com/Title?0034583] 
+BarCode: [3142179] MovieTitle: [Charlie Chaplin Centennial Collection: Modern Times] MovieCategory: [Comedy] ProductionYear: [1936] Format: [VHS] Language: [English] Web: [http://us.imdb.com/Title?0027977] 
+BarCode: [3142180] MovieTitle: [Charlie Chaplin Centennial Collection: Gold Rush/ Pay Day] MovieCategory: [Comedy] ProductionYear: [1936] Format: [VHS] Language: [English] Web: [http://us.imdb.com/Title?0015864] 
+BarCode: [3142225] MovieTitle: [Citizen Kane] MovieCategory: [Drama] ProductionYear: [1941] Format: [DVD] Language: [English] Web: [http://us.imdb.com/Title?0033467] 
+BarCode: [3142926] MovieTitle: [El Tercer Hombre (The Third Man)] MovieCategory: [Thriller] ProductionYear: [1949] Format: [DVD] Language: [Spanish] Web: [http://www.imdb.com/title/tt0041959/] 
+BarCode: [3143092] MovieTitle: [Mr. Smith Goes to Washington] MovieCategory: [Drama] ProductionYear: [1939] Format: [DVD] Language: [English] Web: [http://www.imdb.com/title/tt0031679/] 
+BarCode: [3143217] MovieTitle: [Gone with the Wind] MovieCategory: [Drama] ProductionYear: [1939] Format: [DVD] Language: [English] Web: [http://www.imdb.com/title/tt0031381/] 
+BarCode: [3143294] MovieTitle: [Twelve O'Clock High] MovieCategory: [Action] ProductionYear: [1949] Format: [DVD] Language: [English] Web: [http://www.imdb.com/title/tt0041996/] 
+BarCode: [3143301] MovieTitle: [Wizard of Oz, The] MovieCategory: [Family] ProductionYear: [1939] Format: [DVD] Language: [English] Web: [http://www.imdb.com/title/tt0032138/] 
+BarCode: [3144262] MovieTitle: [Public Enemy, The] MovieCategory: [Action] ProductionYear: [1931] Format: [DVD] Language: [English] Web: [http://www.imdb.com/title/tt0022286/] 
+BarCode: [3144263] MovieTitle: [Little Caesar] MovieCategory: [Action] ProductionYear: [1931] Format: [DVD] Language: [English] Web: [http://www.imdb.com/title/tt0021079/] 
+BarCode: [3144275] MovieTitle: [Scarface (1932)] MovieCategory: [Action] ProductionYear: [1932] Format: [DVD] Language: [English] Web: [http://www.imdb.com/title/tt0023427/] 
+
+For SQL query: SELECT * FROM movies WHERE Format == \"VHS\"
+
+BarCode: [3141961] MovieTitle: [Star Wars: Episode VI - Return of the Jedi] MovieCategory: [Action] ProductionYear: [1978] Format: [VHS] Language: [English] Web: [http://us.imdb.com/Title?0086190] 
+BarCode: [3141962] MovieTitle: [Star Wars: Episode V - The Empire Strikes Back] MovieCategory: [Action] ProductionYear: [1978] Format: [VHS] Language: [English] Web: [http://us.imdb.com/Title?0080684] 
+BarCode: [3141963] MovieTitle: [Star Wars: Episode IV - A New Hope] MovieCategory: [Action] ProductionYear: [1978] Format: [VHS] Language: [English] Web: [http://us.imdb.com/Title?0076759] 
+BarCode: [3141971] MovieTitle: [La Dolce Vita] MovieCategory: [Drama] ProductionYear: [1961] Format: [VHS] Language: [English] Web: [http://us.imdb.com/Title?0053779] 
+BarCode: [3141972] MovieTitle: [It's A Wonderful Life] MovieCategory: [Family] ProductionYear: [1955] Format: [VHS] Language: [English] Web: [http://us.imdb.com/Title?0038650] 
+BarCode: [3141973] MovieTitle: [Casablanca] MovieCategory: [Drama] ProductionYear: [1943] Format: [VHS] Language: [English] Web: [http://us.imdb.com/Title?0034583] 
+BarCode: [3141974] MovieTitle: [Victor Victoria] MovieCategory: [Comedy] ProductionYear: [1982] Format: [VHS] Language: [English] Web: [http://us.imdb.com/Title?0084865] 
+BarCode: [3141975] MovieTitle: [Some Like It Hot] MovieCategory: [Comedy] ProductionYear: [1959] Format: [VHS] Language: [English] Web: [http://us.imdb.com/Title?0053291] 
+BarCode: [3142179] MovieTitle: [Charlie Chaplin Centennial Collection: Modern Times] MovieCategory: [Comedy] ProductionYear: [1936] Format: [VHS] Language: [English] Web: [http://us.imdb.com/Title?0027977] 
+BarCode: [3142180] MovieTitle: [Charlie Chaplin Centennial Collection: Gold Rush/ Pay Day] MovieCategory: [Comedy] ProductionYear: [1936] Format: [VHS] Language: [English] Web: [http://us.imdb.com/Title?0015864] 
+BarCode: [3142181] MovieTitle: [Zorba the Greek] MovieCategory: [Drama] ProductionYear: [1964] Format: [VHS] Language: [English] Web: [http://us.imdb.com/Title?0057831] 
+BarCode: [3142190] MovieTitle: [Ridicule] MovieCategory: [Drama] ProductionYear: [1996] Format: [VHS] Language: [French] Web: [http://us.imdb.com/Title?0117477] 
+BarCode: [3142204] MovieTitle: [Delicatessen] MovieCategory: [Others] ProductionYear: [1991] Format: [VHS] Language: [French] Web: [http://us.imdb.com/Title?0101700] 
+BarCode: [3142206] MovieTitle: [Lawrence of Arabia] MovieCategory: [Drama] ProductionYear: [1962] Format: [VHS] Language: [English] Web: [http://us.imdb.com/Title?0056172] 
+BarCode: [3142211] MovieTitle: [Art of Survival, The] MovieCategory: [Documentary] ProductionYear: [1995] Format: [VHS] Language: [English] Web: [] 
+BarCode: [3142672] MovieTitle: [Fiorile] MovieCategory: [Drama] ProductionYear: [1993] Format: [VHS] Language: [Italian] Web: [http://www.imdb.com/title/tt0106911/] 
+BarCode: [3142673] MovieTitle: [Padre Padrone] MovieCategory: [Drama] ProductionYear: [1977] Format: [VHS] Language: [Italian] Web: [http://www.imdb.com/title/tt0076517/] 
+BarCode: [3142674] MovieTitle: [Night of the Shooting Stars, The] MovieCategory: [Drama] ProductionYear: [1982] Format: [VHS] Language: [Italian] Web: [http://www.imdb.com/title/tt0084422/] 
+BarCode: [3142675] MovieTitle: [St. Michael Had a Rooster] MovieCategory: [Drama] ProductionYear: [1972] Format: [VHS] Language: [Italian] Web: [http://www.imdb.com/title/tt0069215/] 
+
+For SQL query: SELECT * FROM movies WHERE Language == \"Spanish\"
+
+BarCode: [3141936] MovieTitle: [Amores Perros] MovieCategory: [Drama] ProductionYear: [2001] Format: [DVD] Language: [Spanish] Web: [http://us.imdb.com/Title?0245712] 
+BarCode: [3142205] MovieTitle: [Buena Vista Social Club] MovieCategory: [Drama] ProductionYear: [1999] Format: [DVD] Language: [Spanish] Web: [http://us.imdb.com/Title?0186508] 
+BarCode: [3142207] MovieTitle: [Women on the Verge of a Nervous Breakdown] MovieCategory: [Comedy] ProductionYear: [1988] Format: [DVD] Language: [Spanish] Web: [http://us.imdb.com/Title?0095675] 
+BarCode: [3142655] MovieTitle: [Talk to Her] MovieCategory: [Drama] ProductionYear: [2002] Format: [DVD] Language: [Spanish] Web: [http://www.imdb.com/title/tt0287467/] 
+BarCode: [3142855] MovieTitle: [Motorcycle Diaries, The] MovieCategory: [Drama] ProductionYear: [2004] Format: [DVD] Language: [Spanish] Web: [http://www.imdb.com/title/tt0318462/] 
+BarCode: [3142862] MovieTitle: [Maria Full of Grace] MovieCategory: [Drama] ProductionYear: [2004] Format: [DVD] Language: [Spanish] Web: [http://www.imdb.com/title/tt0390221/] 
+BarCode: [3142926] MovieTitle: [El Tercer Hombre (The Third Man)] MovieCategory: [Thriller] ProductionYear: [1949] Format: [DVD] Language: [Spanish] Web: [http://www.imdb.com/title/tt0041959/] 
+BarCode: [3144037] MovieTitle: [Pan's Labyrinth] MovieCategory: [Drama] ProductionYear: [2006] Format: [DVD] Language: [Spanish] Web: [http://www.imdb.com/title/tt0457430/] 
+

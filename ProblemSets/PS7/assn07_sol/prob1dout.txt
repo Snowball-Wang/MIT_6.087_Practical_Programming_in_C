@@ -1,0 +1,11 @@
+Found: [#126] Citizen Kane (1941): Drama, DVD, English, <http://us.imdb.com/Title?0033467>
+Movie "Ponderosa" not found!
+Found: [#42] Gosford Park (2001): Drama, DVD, English, <http://us.imdb.com/Title?0280707>
+Found: [#1185] Transformers (2007): Action, DVD, English, <http://www.imdb.com/title/tt0418279/>
+Found: [#722] Gone with the Wind (1939): Drama, DVD, English, <http://www.imdb.com/title/tt0031381/>
+Found: [#178] When Harry Met Sally (1989): Comedy, DVD, English, <http://us.imdb.com/Title?0098635>
+Movie "Avatar" not found!
+Movie "Simpsons Movie, The" not found!
+Found: [#380] American Pie 2 (2001): Comedy, DVD, English, <http://www.imdb.com/title/tt0252866/>
+Found: [#796] Superman Returns (2006): Action, DVD, English, <http://www.imdb.com/title/tt0348150/>
+
