@@ -1,7 +1,7 @@
 /*
  * lab1a.c
  *
- *  Created on: Apr 28, 2019 
+ *  Created on: 10/2/2022
  *      Author: Snowball Wang
  */
 
@@ -30,14 +30,12 @@ int get_next_state(int x, int y);
    neighbors of the cell at (x,y) */
 int num_neighbors(int x, int y);
 
-
 int main(void)
 {
-    int n;
+	int n;
 
 	/* initialize the world */
-    initialize_world();
-
+	initialize_world();
 
 	for (n = 0; n < NUM_GENERATIONS; n++)
 		next_generation();
@@ -53,15 +51,14 @@ void next_generation(void) {
 	   generation according to the Game of Life rules
 
 	   Hint: use get_next_state(x,y) */
-	int i, j;
-    int world_width, world_height;
-    world_width = get_world_width();
-    world_height = get_world_height();
-	for (i = 0; i < world_width; i++) {
-		for (j = 0; j < world_height; j++) {
-			set_cell_state(i, j, get_next_state(i, j));
+	int state;
+	for(int i = 0; i < get_world_width(); i++){
+		for(int j = 0; j < get_world_height(); j++){
+			state = get_next_state(i, j);
+			set_cell_state(i, j, state);
 		}
 	}
+
 
 	finalize_evolution(); /* called at end to finalize */
 }
@@ -72,24 +69,17 @@ int get_next_state(int x, int y) {
 
 	   Use num_neighbors(x,y) to compute the number of live
 	   neighbors */
-	if (get_cell_state(x, y) == DEAD)
-	{
-		if (num_neighbors(x, y) == 3)
-			return ALIVE;
-        else
-            return DEAD;
-	}
+	int state = get_cell_state(x, y);
+	int alive = num_neighbors(x, y);
+	/* next alive under two conditions: 
+	#1. ALIVE and 2 or 3 live neighbors 
+	#2. Dead and 3 live neighbors */
+	int next_alive_or_dead = (state && (alive == 2 || alive == 3)) || (!state && (alive == 3));
+	if (next_alive_or_dead)
+		return ALIVE;
 	else
-	{
-		if (num_neighbors(x, y) == 2 || num_neighbors(x, y) == 3)
-		{
-			return ALIVE;
-		}
-		else
-		{
-			return DEAD;
-		}
-	}
+		return DEAD;
+
 }
 
 int num_neighbors(int x, int y) {
@@ -97,19 +87,15 @@ int num_neighbors(int x, int y) {
 	   neighbors that are ALIVE
 
 	   Use get_cell_state(x,y) */
-	int i, j;
-	int sum = 0;
-    /* remember to exclude value when i=x, j=y */
-	for (i = x-1;i <= x+1; i++)
-	{
-		for (j = y-1;j <= y+1; j++)
-		{
-            if(i == x && j == y)
-                continue;
-			if (get_cell_state(i, j) == ALIVE)
-				sum += 1;
+	
+	/* Don't forget to exclude (x,y) itself */
+	int num_alive = 0;
+	for (int i = x - 1; i <= x + 1; i++) {
+		for (int j = y - 1; j <= y + 1; j++) {
+			if(!(i == x && j == y))
+				num_alive += get_cell_state(i, j);
 		}
 	}
-	return sum;
-}
 
+	return num_alive;
+}
