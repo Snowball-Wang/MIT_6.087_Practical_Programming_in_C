@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include <string.h>
 
 #define MAX_SYMBOLS 255
 #define MAX_LEN     7
@@ -62,21 +63,32 @@ void pq_display(struct tnode* head)
 void pq_insert(struct tnode* p)
 {
     struct tnode* curr=NULL;
-    struct tnode* prev=NULL;
-   printf("inserting:%c,%f\n",p->symbol,p->freq);
-   if(qhead==NULL) /*qhead is null*/
-   {
-   		/*TODO: write code to insert when queue is empty*/
-   }
-   /*TODO: write code to find correct position to insert*/
-   if(curr==qhead)
-   {
-   	 	/*TODO: write code to insert before the current start*/
-   }
-   else /*insert between prev and next*/
-   {
-	 	/*TODO: write code to insert in between*/
-   }
+    printf("inserting:%c,%f\n",p->symbol,p->freq);
+    if(qhead==NULL) /*qhead is null*/
+    {
+        /* write code to insert when queue is empty */
+        qhead = curr = p;
+    }
+    else
+    {
+        /* new node's freq less than head node */
+        if (p->freq <= qhead->freq)
+        {
+            p->next = qhead;
+            qhead = p;
+        }
+        else
+        {
+            curr = qhead;
+            while (curr->next != NULL && curr->next->freq < p->freq)
+            {
+                curr = curr->next;
+            }
+            /* Either at the end of the list or at required position */
+            p->next = curr->next;
+            curr->next = p;
+        }
+    }
 }
 
 /*
@@ -88,66 +100,95 @@ void pq_insert(struct tnode* p)
 struct tnode* pq_pop()
 {
     struct tnode* p=NULL;
-    /*TODO: write code to remove front of the queue*/
-	printf("popped:%c,%f\n",p->symbol,p->freq);
+    /* write code to remove front of the queue */
+    p = qhead;
+    if (p)
+    {
+        qhead = p->next;
+        printf("popped:%c,%f\n",p->symbol,p->freq);
+    }
     return p;
 }
 
 /*
-	@function build_code
-	@desc     generates the string codes given the tree
-	NOTE: makes use of the global variable root
+    @function build_code
+    @desc     generates the string codes given the tree
+    NOTE: makes use of the global variable root
 */
 void generate_code(struct tnode* root,int depth)
 {
-	int symbol;
-	int len; /*length of code*/
-	if(root->isleaf)
-	{
-		symbol=root->symbol;
-		len   =depth;
-		/*start backwards*/
-		code[symbol][len]=0;
-		/*
-			TODO: follow parent pointer to the top
-			to generate the code string
-		*/
-		printf("built code:%c,%s\n",symbol,code[symbol]);
-	}
-	else
-	{
-		generate_code(root->left,depth+1);
-		generate_code(root->right,depth+1);
-	}
+    int symbol;
+    int len; /*length of code*/
+    if(root->isleaf)
+    {
+        symbol=root->symbol;
+        len = depth;
+	/*start backwards*/
+	code[symbol][len]=0;
+	/*
+	    follow parent pointer to the top
+	    to generate the code string
+        */
+        for (int i = len-1; i >= 0; i--)
+        {
+            if (root == root->parent->left)
+                code[symbol][i] = '0';
+            else
+                code[symbol][i] = '1';
+            root = root->parent;
+        }
+	printf("built code:%c,%s\n",symbol,code[symbol]);
+    }
+    else
+    {
+	generate_code(root->left,depth+1);
+	generate_code(root->right,depth+1);
+    }
 	
 }
 
 /*
-	@func	dump_code
-	@desc	output code file
+    @func	dump_code
+    @desc	output code file
 */
 void dump_code(FILE* fp)
 {
-	int i=0;
-	for(i=0;i<MAX_SYMBOLS;i++)
-	{
-		if(code[i][0]) /*non empty*/
-			fprintf(fp,"%c %s\n",i,code[i]);
-	}
+    int i=0;
+    for(i=0;i<MAX_SYMBOLS;i++)
+    {
+	if(code[i][0]) /*non empty*/
+	fprintf(fp,"%c %s\n",i,code[i]);
+    }
 }
 
 /*
-	@func	encode
-	@desc	outputs compressed stream
+    @func	encode
+    @desc	outputs compressed stream
 */
 void encode(char* str,FILE* fout)
 {
-	while(*str)
-	{
-		fprintf(fout,"%s",code[*str]);
-		str++;
-	}
+    unsigned char c = *str;
+    while(*str)
+    {
+	fprintf(fout,"%s",code[c]);
+	str++;
+    }
 }
+
+/*
+    @function	freetree
+    @desc	cleans up resources for tree
+*/
+
+void freetree(struct tnode* root)
+{
+    if(root==NULL)
+	return;
+    freetree(root->right);
+    freetree(root->left);
+    free(root);
+}
+
 /*
     @function main
 */
@@ -157,28 +198,26 @@ int main()
     struct tnode* p=NULL;
     struct tnode* lc,*rc;
     float freq[]={0.01,0.04,0.05,0.11,0.19,0.20,0.4};
-	int   NCHAR=7; /*number of characters*/
+    int NCHAR=7; /*number of characters*/
     int i=0;
-	const char *CODE_FILE="code.txt";
-	const char *OUT_FILE="encoded.txt";
-	FILE* fout=NULL;
-	/*zero out code*/
-	memset(code,0,sizeof(code));
+    const char *CODE_FILE="code.txt";
+    const char *OUT_FILE="encoded.txt";
+    FILE* fout=NULL;
+    /*zero out code*/
+    memset(code,0,sizeof(code));
 
-	/*testing queue*/
+    /*testing queue*/
     pq_insert(talloc('a',0.1));
     pq_insert(talloc('b',0.2));
     pq_insert(talloc('c',0.15));
     /*making sure it pops in the right order*/
-	puts("making sure it pops in the right order");
-	while((p=pq_pop()))
+    puts("making sure it pops in the right order");
+    while((p=pq_pop()))
     {
         free(p);
     }
 	
-
-
-	qhead=NULL;
+    qhead=NULL;
     /*initialize with freq*/
     for(i=0;i<NCHAR;i++)
     {
@@ -195,29 +234,30 @@ int main()
         lc->parent=rc->parent=p;
         /*set child link*/
         p->right=rc; p->left=lc;
-		/*make it non-leaf*/
-		p->isleaf=0;
+	/*make it non-leaf*/
+	p->isleaf=0;
         /*add the new node to the queue*/
         pq_insert(p);
     }
     /*get root*/
     root=pq_pop();
-	/*build code*/
-	generate_code(root,0);
-	/*output code*/
-	puts("code:");
-	fout=fopen(CODE_FILE,"w");
-	dump_code(stdout);
-	dump_code(fout);
-	fclose(fout);
+    /*build code*/
+    generate_code(root,0);
+    /*output code*/
+    puts("code:");
+    fout=fopen(CODE_FILE,"w");
+    dump_code(stdout);
+    dump_code(fout);
+    fclose(fout);
 
-	/*encode a sample string*/
-	puts("orginal:abba cafe bad");
-	fout=fopen(OUT_FILE,"w");
-	encode("abba cafe bad",stdout);
-	encode("abba cafe bad",fout);
-	fclose(fout);
-	getchar();
-	/*TODO: clear resources*/
+    /*encode a sample string*/
+    puts("orginal:abba cafe bad");
+    fout=fopen(OUT_FILE,"w");
+    encode("abba cafe bad",stdout);
+    encode("abba cafe bad",fout);
+    fclose(fout);
+    getchar();
+    /* clear resources */
+    freetree(root);
     return 0;
 }
